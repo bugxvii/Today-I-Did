@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "en/210117 - main and master.md",
-            "mode": "source"
+            "file": "ko/011721-애자일_방법론과_TDD_그리고_BDD.md",
+            "mode": "preview"
           }
         }
       }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/210117 - main and master.md",
+                "file": "ko/011721-애자일_방법론과_TDD_그리고_BDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +95,8 @@
     "width": 406
   },
   "lastOpenFiles": [
+    "ko/210117 - 애자일 방법론과 TDD 그리고 BDD.md",
+    "README.md",
     "Untitled.md",
     "210117 - 애자일 방법론과 TDD 그리고 BDD.md",
     "ja/ja-2021-1-17.md",
