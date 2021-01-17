@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "e8687aab613a9d43",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf937dcc68910f89",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ko/210117 - 애자일 방법론과 TDD 그리고 BDD.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09ced4c95b32d527",
+    "type": "split",
+    "children": [
+      {
+        "id": "9502c09f293359f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80fce8ea7a9f162d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "65ffcd01fd7624de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4a7767d3fd567546",
+    "type": "split",
+    "children": [
+      {
+        "id": "9276eb946d5dc8e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1520334f11a1da5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ko/210117 - 애자일 방법론과 TDD 그리고 BDD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6efd556d017638d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 406
+  },
+  "lastOpenFiles": [
+    "210117 - 애자일 방법론과 TDD 그리고 BDD.md",
+    "Untitled.md",
+    "ja/ja-2021-1-17.md",
+    "en/en-2021-1-17.md",
+    "en/2021-1-17.md",
+    "2021-1-17.md"
+  ]
+}
