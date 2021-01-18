@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ko/011721-애자일_방법론과_TDD_그리고_BDD.md",
+            "file": "ko/011821-자바스크립트_객체.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TIL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 350.0121879577637,
     "collapsed": true
   },
   "right": {
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ko/011721-애자일_방법론과_TDD_그리고_BDD.md",
+                "file": "ko/011821-자바스크립트_객체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,12 +92,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406
+    "width": 484.882568359375
   },
   "lastOpenFiles": [
+    "ko/011821-자바스크립트_객체.md",
+    "ko/011721-애자일_방법론과_TDD_그리고_BDD.md",
+    "Untitled.md",
     "ko/210117 - 애자일 방법론과 TDD 그리고 BDD.md",
     "README.md",
-    "Untitled.md",
     "210117 - 애자일 방법론과 TDD 그리고 BDD.md",
     "ja/ja-2021-1-17.md",
     "en/en-2021-1-17.md",
