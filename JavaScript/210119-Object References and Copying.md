@@ -1,5 +1,5 @@
 tags: #JavaScript #object
-created: 2021-01-19
+related: [[210118-Objects]] [[210120-Garbage Collection]]
 
 ## 참조에 의한 객체 복사
 - 원시 자료형(primitive data types)의 값들은 '값 그대로' 저장/할당되고 복사된다. 
@@ -118,3 +118,6 @@ console.log( clone.sizes === user.sizes ); // true
 이를 해결하기 위해서는 반복문으로 몰뎐서 `user[key]`가 객체인지 확인한 후, 객체면 값을 하나하나 복사해줘야 한다. 이 과정을 깊은 복사 (deep copy/cloning)
 - 깊은 복사에서 사용되는 표준 알고리즘: https://html.spec.whatwg.org/multipage/structured-data.html#safe-passing-of-structured-data
 - JavaScript 라이브러리 [Lodash](https://lodash.com)의 [\_.cloneDeep(obj)](https://lodash.com/docs#cloneDeep)을 사용하면 바로 깊은 복사가 가능하다.
+
+## Reference
+- https://ko.javascript.info/object-copy

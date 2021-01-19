@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/210119-Object References and Copying.md",
+            "file": "JavaScript/210120-Garbage Collection.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210119-Object References and Copying.md",
+                "file": "JavaScript/210120-Garbage Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +85,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "6e0996a58d59163e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -94,15 +105,15 @@
     "width": 532.2669067382812
   },
   "lastOpenFiles": [
-    "JavaScript/210119-Object References and Copying.md",
+    "JavaScript/210120-Garbage Collection.md",
     "Untitled.md",
     "JavaScript/210118-Objects.md",
+    "JavaScript/210119-Object References and Copying.md",
     "Software Development/Agile programming and TDD + BDD.md",
     "JavaScript/01-Object references and copying.md",
     "JavaScript/00-Objects.md",
     "JavaScript/1-Object references and copying.md",
     "JavaScript/0-Objects.md",
-    "JavaScript/Object references and copying.md",
-    "JavaScript/Objects.md"
+    "JavaScript/Object references and copying.md"
   ]
 }
