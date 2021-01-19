@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bf937dcc68910f89",
+        "id": "dd31da3729f59fa7",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ko/011821-자바스크립트_객체.md",
+            "file": "JavaScript/210119-Object References and Copying.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TIL",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.0121879577637,
-    "collapsed": true
+    "width": 350.0121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ko/011821-자바스크립트_객체.md",
+                "file": "JavaScript/210119-Object References and Copying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +91,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.882568359375
+    "width": 532.2669067382812
   },
   "lastOpenFiles": [
-    "ko/011821-자바스크립트_객체.md",
-    "ko/011721-애자일_방법론과_TDD_그리고_BDD.md",
+    "JavaScript/210119-Object References and Copying.md",
     "Untitled.md",
-    "ko/210117 - 애자일 방법론과 TDD 그리고 BDD.md",
-    "README.md",
-    "210117 - 애자일 방법론과 TDD 그리고 BDD.md",
-    "ja/ja-2021-1-17.md",
-    "en/en-2021-1-17.md",
-    "en/2021-1-17.md",
-    "2021-1-17.md"
+    "JavaScript/210118-Objects.md",
+    "Software Development/Agile programming and TDD + BDD.md",
+    "JavaScript/01-Object references and copying.md",
+    "JavaScript/00-Objects.md",
+    "JavaScript/1-Object references and copying.md",
+    "JavaScript/0-Objects.md",
+    "JavaScript/Object references and copying.md",
+    "JavaScript/Objects.md"
   ]
 }
