@@ -90,6 +90,8 @@ console.log( admin.name ); // Eubug
 ### 유휴 시간 수집 (Idle-time Collection)
 GC는 실행에 주는 영향을 최소화하기 위해 CPU가 유휴 상태일 때에만 가비지 컬렉션을 실행한다.
 
+## Notes
+- 저수준 프로그래밍에 익숙하다면 [V8 Garbage Collector](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection) 글을 읽어보자
+
 ## Reference
 - https://ko.javascript.info/garbage-collection
-- 저수준 프로그래밍에 익숙하다면 [V8 Garbage Collector](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection) 글을 읽어보자
