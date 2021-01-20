@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/210120-Garbage Collection.md",
+            "file": "CSS/201011 Creating a Card Effect.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210120-Garbage Collection.md",
+                "file": "CSS/201011 Creating a Card Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
     "width": 532.2669067382812
   },
   "lastOpenFiles": [
-    "JavaScript/210120-Garbage Collection.md",
-    "Untitled.md",
-    "JavaScript/210118-Objects.md",
-    "JavaScript/210119-Object References and Copying.md",
-    "Software Development/Agile programming and TDD + BDD.md",
-    "JavaScript/01-Object references and copying.md",
-    "JavaScript/00-Objects.md",
-    "JavaScript/1-Object references and copying.md",
-    "JavaScript/0-Objects.md",
-    "JavaScript/Object references and copying.md"
+    "CSS/2020-10-11-card-effect.md",
+    "temp/css/2020-10-10-css-flex-wrap.md",
+    "temp/algorithm/2020-10-17-divisor.md",
+    "temp/js/2020-12-12-copy-clipboard.md",
+    "temp/js/2020-12-11-split-a-number-from-string.md",
+    "temp/js/2020-11-19-array-insert.md",
+    "temp/js/2020-11-17-divide-integer-by-10.md",
+    "JavaScript/201031 Sort integer array.md",
+    "JavaScript/210119 Object References and Copying.md",
+    "temp/js/2020-10-31-sort-int-array.md"
   ]
 }
