@@ -1,5 +1,5 @@
 tags: #math #manhattan
-related: [[2020-10-18-chebyshev-distance | Chebyshev Distance]] | [[2020-10-18-euclidean-distance | Euclidean Distance]]
+related: [[201018 Chebyshev Distance | Chebyshev Distance]] | [[201018 Euclidean Distance | Euclidean Distance]]
 
 <hr />
 
