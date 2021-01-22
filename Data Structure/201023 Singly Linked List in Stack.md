@@ -45,17 +45,8 @@ void Stack::push(int x)
 
 An empty list contains nothing but the sentinel like the image below.
 
-![Stack SLL Insert Process 1](/assets/images/ds/stack-sll-1.png)
-
 `sentinel.next` always points to the top of the stack. So I can simply place the new node in between
 the `sentinel` and `sentinel.next`.
-
-![Stack SLL Insert Process 2](/assets/images/ds/stack-sll-2.png)<br>
-*(inserts a nodeA)*
-
-![Stack SLL Insert Process 3](/assets/images/ds/stack-sll-3.png)<br>
-*(inserts a nodeB)*
-
 
 ### POP
 
@@ -71,11 +62,7 @@ void Stack::pop()
 Top of the stack is pointed by `sentinel.next` and we need to remove that. 
 So We store that node into `temp` and update the top by `sentinel.next = sentinel.next.next`.
 
-![Stack SLL Pop Process 1](/assets/images/ds/stack-sll-4.png)<br>
-
 And then deallocate the memory of `temp`.
-
-![Stack SLL Insert Process 2](/assets/images/ds/stack-sll-2.png)<br>
 
 In C++, we need to manage the memory on our own. So we need to store the deleting node into a temporary space so we can 
 deallocate its memory. If you're using a language that has an automatic memory management, or a *garbage collector*,
@@ -85,8 +72,8 @@ you can skip it.
 stack implementation using a singly linked list.
 
 ## Related Posts
-- [What is linked list?](/#/linkedlist-basic)
-- [Stack in array](/#/stack-array)
+- [[201020 LinkedList Basic]]
+- [[201014 Stack Array | Implementing Stack using an Array.]]
 
 ## Reference
 - Introduction to Algorithms, 3rd Edition (CLRS)

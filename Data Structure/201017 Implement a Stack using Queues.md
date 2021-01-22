@@ -1,7 +1,7 @@
 tags: #queue #stack #ds 
 
 ## Queue-stack
-This is exactly the opposite of [this](./#/queue-using-stacks) case, where we used two stacks to implement a queue.
+This is exactly the opposite of [[201016 Implement a Queue using Stacks | this]] case, where we used two stacks to implement a queue.
 To implement a stack using two queues, we can either make the `push` or `pop` operation costly.
 
 We can choose the either one since it differs only so much (like 1 extra operation). 

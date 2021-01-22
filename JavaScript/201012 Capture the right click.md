@@ -20,5 +20,3 @@ function removeCard(elem, index) {
 ```
 
 Above code removes the card (`div`) from the DOM and an array when right-clicked.
-
-![Delete when right-clicked](/assets/gifs/contextmenu-delete.gif)

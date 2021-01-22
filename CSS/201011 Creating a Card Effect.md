@@ -14,13 +14,6 @@ tags: #JavaScript #CSS
 }
 ```
 
-CSS 적용 전.
-![Card effect example](/assets/images/css/card-1.png)
-
-적용 후.
-
-![Card effect example](/assets/images/css/card-2.png)
-
 `:hover`할 때 `scale`을 조정하므로써 마치 카드를 집어 올리는 듯한 느낌이 들도록 효과를 줘봤다
 (전혀 그런 느낌이 안나지만...)
 
@@ -29,4 +22,3 @@ CSS 적용 전.
   transform: scale(1.05);
 }
 ```
-![Card gif](/assets/gifs/card.gif)

@@ -87,8 +87,6 @@ A *sentinel* is simply a dummy node that lies in between head and tail and it do
 
 `sentinel->next` points to the head and `sentinel->prev` points to the tail of the list.
 
-![sentinel node](/assets/images/ds/sentinel-node.png)
-
 Part `(a)` shows an **empty** list with only the sentinel in the list.
 
 In part `(b)`, `sentinel->next` points to the first node of the list (`9`) and `sentinel->prev` points to the 

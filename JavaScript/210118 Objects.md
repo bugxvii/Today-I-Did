@@ -1,5 +1,5 @@
 tags: #JavaScript #object
-related: [[210119 Object References and Copying]] [[210120 Garbage Collection]]
+related: [[210119 Object References and Copying]] | [[210120 Garbage Collection]]
 
 ## 객체
 아래와 같이 `키(key) : 값(value)` 쌍의 프로퍼티(property)로 구성되어있다.

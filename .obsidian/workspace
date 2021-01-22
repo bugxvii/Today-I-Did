@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Etcera/201004 Productive Box.md",
+            "file": "JavaScript/210122 Method and 'this'.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#JavaScript",
+                "query": "tag:#mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etcera/201004 Productive Box.md",
+                "file": "JavaScript/210122 Method and 'this'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,18 +102,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.2818298339844
+    "width": 372.45318603515625
   },
   "lastOpenFiles": [
-    "Etcera/2020-10-04-productive-box.md",
-    "Etcera/2020-10-04-gitpage-custom-domain.md",
-    "Etcera/200811 Mac OS Dev. Enviornment Setup.md",
-    "Etcera/200901 VS Code preview markdown.md",
-    "Etcera/2020-09-01-vscode-preview-markdown copy.md",
-    "Etcera/2020-08-11-mac-dev-env-setup.md",
-    "temp/etc/2020-10-04-productive-box.md",
-    "temp/etc/2020-10-04-gitpage-custom-domain.md",
-    "temp/etc/2020-09-01-vscode-preview-markdown copy.md",
-    "temp/etc/2020-08-11-mac-dev-env-setup.md"
+    "JavaScript/210122 Method and 'this'.md",
+    "JavaScript/210120 Garbage Collection.md",
+    "JavaScript/210118 Objects.md",
+    "JavaScript/210119 Object References and Copying.md",
+    "Untitled.md",
+    "Data Structure/201105 map vs. unordered-map.md",
+    "Data Structure/201020 LinkedList Basic.md",
+    "Etcera/201004 Github Page + Custom Domain.md",
+    "Etcera/201004 Productive Box.md",
+    "JavaScript/201012 Capture the right click.md"
   ]
 }

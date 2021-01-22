@@ -4,8 +4,6 @@ tags: #etc #github
 
 GitHub action을 이용한 흥미로운 프로젝트. 
 
-![Productive Box](./assets/images/etc/productive-box.png)
-
 위 그림과 같이 자정에 한 번 cron을 통해 나의 commit 정보와 시간대를 가져와 night-owl인지 early-bird인지 판별해준다.
 
 ### Setup
