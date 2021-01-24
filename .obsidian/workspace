@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "dd31da3729f59fa7",
+        "id": "812a56a7747aaed8",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/210122 Method and 'this'.md",
+            "file": "History/Korea/사건/위화도회군.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210122 Method and 'this'.md",
+                "file": "History/Korea/사건/위화도회군.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,18 +102,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.45318603515625
+    "width": 510.26690673828125
   },
   "lastOpenFiles": [
+    "History/Korea/사건/위화도회군.md",
+    "History/Korea/인물/20210125 정도전.md",
+    "Untitled.md",
     "JavaScript/210122 Method and 'this'.md",
+    "JavaScript/201011 Disable selections and Check tagnames.md",
     "JavaScript/210120 Garbage Collection.md",
     "JavaScript/210118 Objects.md",
     "JavaScript/210119 Object References and Copying.md",
-    "Untitled.md",
     "Data Structure/201105 map vs. unordered-map.md",
-    "Data Structure/201020 LinkedList Basic.md",
-    "Etcera/201004 Github Page + Custom Domain.md",
-    "Etcera/201004 Productive Box.md",
-    "JavaScript/201012 Capture the right click.md"
+    "Data Structure/201020 LinkedList Basic.md"
   ]
 }
