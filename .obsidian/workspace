@@ -4,22 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "e77467e2282fc608",
-        "type": "leaf",
-        "dimension": 47.566515249837764,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JavaScript/210125 Method and 'this'.md",
-            "mode": "preview"
-          }
-        },
-        "group": "a070451458c22e25"
-      },
-      {
         "id": "812a56a7747aaed8",
         "type": "leaf",
-        "dimension": 52.43348475016223,
         "active": true,
         "state": {
           "type": "markdown",
@@ -27,8 +13,7 @@
             "file": "JavaScript/210125 Method and 'this'.md",
             "mode": "source"
           }
-        },
-        "group": "a070451458c22e25"
+        }
       }
     ],
     "direction": "vertical"
@@ -68,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.0121879577637,
-    "collapsed": true
+    "width": 350.0121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
