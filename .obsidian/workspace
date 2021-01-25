@@ -10,23 +10,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/Korea/장소/210126 경복궁.md",
+            "file": "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
             "mode": "preview"
           }
-        },
-        "group": "bb0247d6383983ac"
-      },
-      {
-        "id": "812a56a7747aaed8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "History/Korea/장소/210126 경복궁.md",
-            "mode": "source"
-          }
-        },
-        "group": "bb0247d6383983ac"
+        }
       }
     ],
     "direction": "vertical"
@@ -66,16 +53,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.0121879577637,
-    "collapsed": true
+    "width": 350.0121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
     "type": "split",
     "children": [
       {
-        "id": "9276eb946d5dc8e7",
+        "id": "a7dbddaf5919b6a3",
         "type": "tabs",
+        "dimension": 31.841652323580032,
         "children": [
           {
             "id": "1520334f11a1da5e",
@@ -83,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Korea/장소/210126 경복궁.md",
+                "file": "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +78,14 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9276eb946d5dc8e7",
+        "type": "tabs",
+        "dimension": 68.15834767641996,
+        "children": [
           {
             "id": "d6efd556d017638d",
             "type": "leaf",
@@ -111,23 +105,22 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 502.2669372558594
   },
   "lastOpenFiles": [
+    "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
+    "ReadingNote/Books.md",
+    "Untitled.md",
     "History/Korea/장소/210126 경복궁.md",
+    "210127.md",
     "History/Korea/인물/210125 정도전.md",
+    "History/Korea/사건/210125 위화도회군.md",
     "History/Korea/사건/20210125 위화도회군.md",
     "History/Korea/인물/20210125 정도전.md",
-    "History/Korea/장소/경복궁.md",
-    "History/Korea/장소/Untitled.md",
-    "JavaScript/210125 Constructor, operator 'new'.md",
-    "JavaScript/210125 Method and 'this'.md",
-    "JavaScript/210119 Object References and Copying.md",
-    "JavaScript/210118 Objects.md"
+    "History/Korea/장소/경복궁.md"
   ]
 }
