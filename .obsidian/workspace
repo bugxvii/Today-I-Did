@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
+        "id": "e77467e2282fc608",
+        "type": "leaf",
+        "dimension": 47.566515249837764,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaScript/210125 Method and 'this'.md",
+            "mode": "preview"
+          }
+        },
+        "group": "a070451458c22e25"
+      },
+      {
         "id": "812a56a7747aaed8",
         "type": "leaf",
+        "dimension": 52.43348475016223,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/Korea/사건/위화도회군.md",
+            "file": "JavaScript/210125 Method and 'this'.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "a070451458c22e25"
       }
     ],
     "direction": "vertical"
@@ -40,8 +55,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mysql",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -53,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.0121879577637
+    "width": 350.0121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -69,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Korea/사건/위화도회군.md",
+                "file": "JavaScript/210125 Method and 'this'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,18 +118,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.26690673828125
+    "width": 502.2669372558594
   },
   "lastOpenFiles": [
-    "History/Korea/사건/위화도회군.md",
-    "History/Korea/인물/20210125 정도전.md",
-    "Untitled.md",
+    "JavaScript/210125 Method and 'this'.md",
     "JavaScript/210122 Method and 'this'.md",
+    "Untitled.md",
+    "History/Korea/인물/20210125 정도전.md",
+    "History/Korea/사건/위화도회군.md",
     "JavaScript/201011 Disable selections and Check tagnames.md",
     "JavaScript/210120 Garbage Collection.md",
     "JavaScript/210118 Objects.md",
     "JavaScript/210119 Object References and Copying.md",
-    "Data Structure/201105 map vs. unordered-map.md",
-    "Data Structure/201020 LinkedList Basic.md"
+    "Data Structure/201105 map vs. unordered-map.md"
   ]
 }
