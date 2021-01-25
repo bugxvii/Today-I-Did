@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
+        "id": "965348d7896e6aa6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaScript/210125 Constructor, operator 'new'.md",
+            "mode": "preview"
+          }
+        },
+        "group": "520b9fa30e83e99c"
+      },
+      {
         "id": "812a56a7747aaed8",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/210125 Method and 'this'.md",
+            "file": "JavaScript/210125 Constructor, operator 'new'.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "520b9fa30e83e99c"
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.0121879577637
+    "width": 350.0121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210125 Method and 'this'.md",
+                "file": "JavaScript/210125 Constructor, operator 'new'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +119,15 @@
     "width": 502.2669372558594
   },
   "lastOpenFiles": [
+    "JavaScript/210125 Constructor, operator 'new'.md",
     "JavaScript/210125 Method and 'this'.md",
-    "JavaScript/210122 Method and 'this'.md",
+    "JavaScript/210119 Object References and Copying.md",
+    "JavaScript/210118 Objects.md",
+    "JavaScript/210120 Garbage Collection.md",
     "Untitled.md",
+    "JavaScript/210122 Method and 'this'.md",
     "History/Korea/인물/20210125 정도전.md",
     "History/Korea/사건/위화도회군.md",
-    "JavaScript/201011 Disable selections and Check tagnames.md",
-    "JavaScript/210120 Garbage Collection.md",
-    "JavaScript/210118 Objects.md",
-    "JavaScript/210119 Object References and Copying.md",
-    "Data Structure/201105 map vs. unordered-map.md"
+    "JavaScript/201011 Disable selections and Check tagnames.md"
   ]
 }
