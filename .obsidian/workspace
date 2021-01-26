@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
+        "id": "6e1c395aa863b9ef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaScript/210126 Optional chaining.md",
+            "mode": "preview"
+          }
+        },
+        "group": "9f89f615504dd0d0"
+      },
+      {
         "id": "efd21757be310752",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
-            "mode": "preview"
+            "file": "JavaScript/210126 Optional chaining.md",
+            "mode": "source"
           }
-        }
+        },
+        "group": "9f89f615504dd0d0"
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.0121879577637
+    "width": 350.0121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -70,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
+                "file": "JavaScript/210126 Optional chaining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,18 +123,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.2669372558594
+    "width": 523.2669067382812
   },
   "lastOpenFiles": [
+    "JavaScript/210126 Optional chaining.md",
+    "Node.js/210126 Upgrade Node.md",
+    "Node.js/Untitled.md",
+    "JavaScript/210125 Constructor, operator 'new'.md",
+    "JavaScript/210125 Method and 'this'.md",
+    "JavaScript/Untitled.md",
+    "History/Korea/장소/210126 경복궁.md",
     "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
     "ReadingNote/Books.md",
-    "Untitled.md",
-    "History/Korea/장소/210126 경복궁.md",
-    "210127.md",
-    "History/Korea/인물/210125 정도전.md",
-    "History/Korea/사건/210125 위화도회군.md",
-    "History/Korea/사건/20210125 위화도회군.md",
-    "History/Korea/인물/20210125 정도전.md",
-    "History/Korea/장소/경복궁.md"
+    "Untitled.md"
   ]
 }
