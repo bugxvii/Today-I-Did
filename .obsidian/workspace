@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
+        "id": "41c6a28ec136fadd",
+        "type": "leaf",
+        "dimension": 48.22784810126583,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History/Korea/유적-유물/210127 청화백자.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7ed29c12d0bae4f1"
+      },
+      {
         "id": "856e30acf122fc23",
         "type": "leaf",
+        "dimension": 51.77215189873417,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ruby/Basic Ruby/210126 Basic #1.md",
-            "mode": "preview"
+            "file": "History/Korea/유적-유물/210127 청화백자.md",
+            "mode": "source"
           }
-        }
+        },
+        "group": "7ed29c12d0bae4f1"
       }
     ],
     "direction": "vertical"
@@ -71,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Basic Ruby/210126 Basic #1.md",
+                "file": "History/Korea/유적-유물/210127 청화백자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,18 +125,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.6484375
+    "width": 462.6484069824219
   },
   "lastOpenFiles": [
+    "History/Korea/유적-유물/210127 청화백자.md",
+    "History/Korea/장소/210126 경복궁.md",
+    "History/Korea/인물/210125 정도전.md",
+    "History/Korea/사건/210125 위화도회군.md",
+    "History/Korea/유적-유물/Untitled.md",
+    "JavaScript/210126 Optional chaining.md",
     "Ruby/Basic Ruby/210126 Basic #1.md",
     "Untitled.md",
     "Ruby/Basic Ruby/Untitled.md",
-    "JavaScript/210126 Optional chaining.md",
-    "Node.js/210126 Upgrade Node.md",
-    "Node.js/Untitled.md",
-    "JavaScript/210125 Constructor, operator 'new'.md",
-    "JavaScript/210125 Method and 'this'.md",
-    "JavaScript/Untitled.md",
-    "History/Korea/장소/210126 경복궁.md"
+    "Node.js/210126 Upgrade Node.md"
   ]
 }
