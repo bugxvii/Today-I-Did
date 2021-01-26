@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41c6a28ec136fadd",
-        "type": "leaf",
-        "dimension": 48.22784810126583,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "History/Korea/유적-유물/210127 청화백자.md",
-            "mode": "preview"
-          }
-        },
-        "group": "7ed29c12d0bae4f1"
-      },
-      {
         "id": "856e30acf122fc23",
         "type": "leaf",
-        "dimension": 51.77215189873417,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/Korea/유적-유물/210127 청화백자.md",
-            "mode": "source"
+            "file": "Ruby/Basic Ruby/210126 Hello world.md",
+            "mode": "preview"
           }
-        },
-        "group": "7ed29c12d0bae4f1"
+        }
       }
     ],
     "direction": "vertical"
@@ -68,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.0121879577637,
-    "collapsed": true
+    "width": 350.0121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -86,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Korea/유적-유물/210127 청화백자.md",
+                "file": "Ruby/Basic Ruby/210126 Hello world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +112,15 @@
     "width": 462.6484069824219
   },
   "lastOpenFiles": [
+    "Ruby/Basic Ruby/210126 Basic #1.md",
     "History/Korea/유적-유물/210127 청화백자.md",
+    "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
+    "ReadingNote/Books.md",
     "History/Korea/장소/210126 경복궁.md",
     "History/Korea/인물/210125 정도전.md",
     "History/Korea/사건/210125 위화도회군.md",
     "History/Korea/유적-유물/Untitled.md",
     "JavaScript/210126 Optional chaining.md",
-    "Ruby/Basic Ruby/210126 Basic #1.md",
-    "Untitled.md",
-    "Ruby/Basic Ruby/Untitled.md",
-    "Node.js/210126 Upgrade Node.md"
+    "Untitled.md"
   ]
 }
