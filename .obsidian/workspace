@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/210128 Symbol type.md",
+            "file": "Ruby/Basic Ruby/210129 ASCII.md",
             "mode": "preview"
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.0121879577637,
-    "collapsed": true
+    "width": 350.0121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210128 Symbol type.md",
+                "file": "Ruby/Basic Ruby/210129 ASCII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +112,15 @@
     "width": 485.26690673828125
   },
   "lastOpenFiles": [
-    "JavaScript/210128 Symbol type.md",
-    "JavaScript/Untitled.md",
+    "Ruby/Basic Ruby/210129 ASCII.md",
     "Ruby/Basic Ruby/210128 Here documents.md",
     "Ruby/Basic Ruby/210127 Strings.md",
     "Ruby/Basic Ruby/210126 Hello world.md",
     "Ruby/Basic Ruby/Untitled.md",
+    "JavaScript/210128 Symbol type.md",
+    "JavaScript/Untitled.md",
     "History/Korea/문화/210128 탕평.md",
     "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
-    "History/Korea/유적-유물/210127 청화백자.md",
-    "History/Korea/문화/Untitled.md"
+    "History/Korea/유적-유물/210127 청화백자.md"
   ]
 }
