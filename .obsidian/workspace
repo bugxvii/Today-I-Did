@@ -4,16 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "587e08f0fec95e1b",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ruby/Basic Ruby/210127 Strings.md",
-            "mode": "preview"
+        "id": "ba71021fa402f71f",
+        "type": "split",
+        "children": [
+          {
+            "id": "587e08f0fec95e1b",
+            "type": "leaf",
+            "dimension": 48.278829604130806,
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruby/Basic Ruby/210128 Here documents.md",
+                "mode": "source"
+              }
+            },
+            "group": "a6c076055bdcf88a"
+          },
+          {
+            "id": "4708b68e3f1fc84b",
+            "type": "leaf",
+            "dimension": 51.72117039586919,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruby/Basic Ruby/210128 Here documents.md",
+                "mode": "preview"
+              }
+            },
+            "group": "a6c076055bdcf88a"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -40,8 +62,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:#clipboard",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Basic Ruby/210127 Strings.md",
+                "file": "Ruby/Basic Ruby/210128 Here documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,18 +131,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.26690673828125
+    "width": 320.6484069824219
   },
   "lastOpenFiles": [
+    "Ruby/Basic Ruby/210128 Here documents.md",
     "Ruby/Basic Ruby/210127 Strings.md",
+    "Ruby/Basic Ruby/210126 Hello world.md",
+    "Ruby/Basic Ruby/Untitled.md",
     "History/Korea/문화/210128 탕평.md",
     "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
     "History/Korea/유적-유물/210127 청화백자.md",
     "History/Korea/문화/Untitled.md",
-    "Ruby/Basic Ruby/210126 Hello world.md",
-    "Ruby/Basic Ruby/Untitled.md",
     "Ruby/Basic Ruby/210126 Basic #1.md",
-    "ReadingNote/Books.md",
-    "History/Korea/장소/210126 경복궁.md"
+    "ReadingNote/Books.md"
   ]
 }

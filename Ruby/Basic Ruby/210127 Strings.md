@@ -98,3 +98,6 @@ puts %Q(c:\\bus schedules\\#{name}\\the portland bus schedule.txt)
 name = "eubug"
 puts %Q(c:\\bus schedules\\#{name}\\the portland bus schedule.txt)
 ```
+
+## Reference
+- https://en.wikibooks.org/wiki/Ruby_Programming/Strings
