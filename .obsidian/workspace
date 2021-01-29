@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "587e08f0fec95e1b",
+        "id": "e78ba35ddd85714e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/Korea/명문장/210130 대한민국 임시 헌장.md",
+            "file": "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
             "mode": "preview"
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.0121879577637
+    "width": 350.0121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Korea/명문장/210130 대한민국 임시 헌장.md",
+                "file": "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +113,7 @@
     "width": 543.2669067382812
   },
   "lastOpenFiles": [
+    "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
     "History/Korea/명문장/210130 대한민국 임시 헌장.md",
     "History/Korea/문화/210128 탕평.md",
     "History/Korea/유적-유물/210127 청화백자.md",
@@ -120,7 +122,6 @@
     "History/Korea/장소/210126 경복궁.md",
     "History/Korea/인물/210125 정도전.md",
     "History/Korea/명문장/Untitled.md",
-    "History/Korea/학문-철학/Untitled.md",
-    "Ruby/Basic Ruby/210129 ASCII.md"
+    "History/Korea/학문-철학/Untitled.md"
   ]
 }
