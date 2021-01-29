@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e78ba35ddd85714e",
+        "id": "de443d4eea27eef3",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
+            "file": "Ruby/Basic Ruby/210130 Encoding.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#JavaScript",
+                "query": "tag:#ruby",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
+                "file": "Ruby/Basic Ruby/210130 Encoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
     "width": 543.2669067382812
   },
   "lastOpenFiles": [
+    "Ruby/Basic Ruby/210130 Encoding.md",
+    "Ruby/Basic Ruby/210126 Hello world.md",
+    "Ruby/Basic Ruby/210127 Strings.md",
+    "Ruby/Basic Ruby/210129 ASCII.md",
+    "Ruby/Basic Ruby/210128 Here documents.md",
+    "Ruby/Basic Ruby/Untitled.md",
     "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
     "History/Korea/명문장/210130 대한민국 임시 헌장.md",
     "History/Korea/문화/210128 탕평.md",
-    "History/Korea/유적-유물/210127 청화백자.md",
-    "History/Korea/사건/210125 위화도회군.md",
-    "History/Korea/학문-철학/210129 성리학.md",
-    "History/Korea/장소/210126 경복궁.md",
-    "History/Korea/인물/210125 정도전.md",
-    "History/Korea/명문장/Untitled.md",
-    "History/Korea/학문-철학/Untitled.md"
+    "History/Korea/유적-유물/210127 청화백자.md"
   ]
 }
