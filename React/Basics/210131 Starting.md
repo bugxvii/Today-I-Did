@@ -39,8 +39,9 @@ export default App;
 const element = <h1>Hello, World!</h1>
 ```
 
-This funky style is neither a JavaScript string nor HTML.
-This is a *JavaScript Extension* (JSX).
+This funky style is neither a JavaScript string nor HTML. It's a syntax extension to JavaScript and JSX stands for _JavaScript XML_.
+
+It allows us to write HTML code in React which makes it easier to read and write the HTML in React.
 
 ### embedding JSX
 ```js
