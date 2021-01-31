@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0a1bb83721690279",
+        "id": "d68a3cf6c7f80302",
         "type": "leaf",
-        "dimension": 41.96028187059577,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JavaScript/210131 Object to primitive coversion.md",
-            "mode": "preview"
-          }
-        },
-        "group": "ec04c0df79994004"
-      },
-      {
-        "id": "497fc412905c0623",
-        "type": "leaf",
-        "dimension": 58.03971812940423,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/210131 Object to primitive coversion.md",
-            "mode": "source"
+            "file": "Ruby/Basic Ruby/210131 Introduction to objects.md",
+            "mode": "preview"
           }
-        },
-        "group": "ec04c0df79994004"
+        }
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#독서",
+                "query": "tag:#한국사",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.01218795776367,
+    "width": 412.0121879577637,
     "collapsed": true
   },
   "right": {
@@ -86,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210131 Object to primitive coversion.md",
+                "file": "Ruby/Basic Ruby/210131 Introduction to objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +113,15 @@
     "width": 482.2668762207031
   },
   "lastOpenFiles": [
+    "Ruby/Basic Ruby/210131 Introduction to objects.md",
     "JavaScript/210131 Object to primitive coversion.md",
-    "Data Structure/201105 map vs. unordered-map.md",
+    "JavaScript/210128 Symbol type.md",
+    "JavaScript/210125 Method and 'this'.md",
+    "JavaScript/210126 Optional chaining.md",
+    "JavaScript/210120 Garbage Collection.md",
+    "JavaScript/210125 Constructor, operator 'new'.md",
     "JavaScript/210119 Object References and Copying.md",
     "JavaScript/210118 Objects.md",
-    "ReadingNote/Books.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
-    "ReadingNote/짧고 굵게 일합니다.md",
-    "JavaScript/210128 Symbol type.md",
-    "JavaScript/Untitled.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210131 임진왜란.md"
+    "JavaScript/201212 Copy to Clipboard.md"
   ]
 }
