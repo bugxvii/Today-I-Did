@@ -1,5 +1,4 @@
 tags: #JavaScript #object
-related: [[210118 Objects]] | [[210119 Object References and Copying]]
 
 ## 가비지 컬렉션
 자바스크립트에는 '[가비지 컬렉터 (Garbage Collector)](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))'라는 것이 존재한다. 이 친구는 우리가 만드는 변수, 객체, 함수 등, 메모리를 차지하는 아이들을 살펴보면서 더 이상 사용되지 않는 메모리를 자동으로 해제한다.

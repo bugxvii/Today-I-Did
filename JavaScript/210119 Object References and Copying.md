@@ -1,5 +1,4 @@
 tags: #JavaScript #object
-related: [[210118 Objects]] | [[210120 Garbage Collection]]
 
 ## 참조에 의한 객체 복사
 - 원시 자료형(primitive data types)의 값들은 '값 그대로' 저장/할당되고 복사된다. 

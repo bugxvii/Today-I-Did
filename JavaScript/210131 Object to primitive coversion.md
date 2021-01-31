@@ -1,5 +1,4 @@
 tags: #JavaScript #object 
-related: [[210118 Objects]] | [[210120 Garbage Collection]] | [[210119 Object References and Copying]]
 
 ## Object to Primitive Conversion
 When we perform arithmetic operations with objects, it will be converted into primitives. For example, results of the following code will be a primitive: `obj + obj`, `obj - obj`, or `alert(obj)`.
