@@ -10,10 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Basics/210131 Starting.md",
+            "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
+            "mode": "source"
+          }
+        },
+        "group": "2eaaf6d37cbcd1e7"
+      },
+      {
+        "id": "8e69a20887aef71c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "2eaaf6d37cbcd1e7"
       }
     ],
     "direction": "vertical"
@@ -71,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Basics/210131 Starting.md",
+                "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +126,15 @@
     "width": 436.0172424316406
   },
   "lastOpenFiles": [
-    "React/Basics/210131 Starting.md",
-    "Etcera/200811 Mac OS Dev. Enviornment Setup.md",
-    "JavaScript/210128 Symbol type.md",
-    "React/Official Document/Untitled.md",
-    "Ruby/Basic Ruby/210131 Introduction to objects.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210125 정도전.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210131 임진왜란.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210127 청화백자.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/장소/210126 경복궁.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
-    "Database/MySQL/201122 MySQL Basic pt.1.md",
-    "JavaScript/210131 Object to primitive coversion.md",
-    "JavaScript/210125 Method and 'this'.md",
-    "JavaScript/210126 Optional chaining.md"
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/학문-철학/210129 성리학.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/명문장/210130 대한민국 임시 헌장.md",
+    "210201 title.md",
+    "Etcera/210131 Add stdc++.h.md"
   ]
 }
