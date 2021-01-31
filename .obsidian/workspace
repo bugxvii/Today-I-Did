@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ruby/Basic Ruby/210131 Introduction to objects.md",
+            "file": "React/Basics/210131 Starting.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#한국사",
+                "query": "tag:#React",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Basic Ruby/210131 Introduction to objects.md",
+                "file": "React/Basics/210131 Starting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
     "width": 436.0172424316406
   },
   "lastOpenFiles": [
+    "React/Basics/210131 Starting.md",
+    "Etcera/200811 Mac OS Dev. Enviornment Setup.md",
+    "JavaScript/210128 Symbol type.md",
+    "React/Official Document/Untitled.md",
     "Ruby/Basic Ruby/210131 Introduction to objects.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
     "Database/MySQL/201122 MySQL Basic pt.1.md",
     "JavaScript/210131 Object to primitive coversion.md",
-    "JavaScript/210128 Symbol type.md",
     "JavaScript/210125 Method and 'this'.md",
-    "JavaScript/210126 Optional chaining.md",
-    "JavaScript/210120 Garbage Collection.md",
-    "JavaScript/210125 Constructor, operator 'new'.md",
-    "JavaScript/210119 Object References and Copying.md"
+    "JavaScript/210126 Optional chaining.md"
   ]
 }
