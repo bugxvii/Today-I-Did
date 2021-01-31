@@ -1,0 +1,19 @@
+/* color of tag nodes */
+.theme-dark .graph-view.color-fill-tag {
+  color: #2c6ad0;
+}
+
+/* color of node */
+.graph-view.color-fill {
+  color: #946b2d;
+}
+
+/* color of strings attaching nodes */
+.graph-view.color-line {
+  color: #5d5d5d;
+}
+
+/* line color which join the notes but when you hover on the node: */
+.graph-view.color-line-highlight {
+  color: #2067dd;
+}
