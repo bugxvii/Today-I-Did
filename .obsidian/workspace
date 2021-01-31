@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ruby/Basic Ruby/210130 Encoding.md",
-            "mode": "preview"
+            "file": "ReadingNote/Books.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ruby",
+                "query": "tag:#독서",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.0121879577637,
-    "collapsed": true
+    "width": 350.0121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Basic Ruby/210130 Encoding.md",
+                "file": "ReadingNote/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,18 +109,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 543.2669067382812
+    "width": 387.4532775878906
   },
   "lastOpenFiles": [
-    "Ruby/Basic Ruby/210130 Encoding.md",
-    "Ruby/Basic Ruby/210126 Hello world.md",
-    "Ruby/Basic Ruby/210127 Strings.md",
-    "Ruby/Basic Ruby/210129 ASCII.md",
-    "Ruby/Basic Ruby/210128 Here documents.md",
-    "Ruby/Basic Ruby/Untitled.md",
+    "ReadingNote/0.Books.md",
+    "ReadingNote/짧고 굵게 일합니다.md",
+    "ReadingNote/Books.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
     "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/Untitled.md",
+    "읽기만 하면  내 것이 되는 1페이지 한국사365.md",
     "History/Korea/명문장/210130 대한민국 임시 헌장.md",
-    "History/Korea/문화/210128 탕평.md",
-    "History/Korea/유적-유물/210127 청화백자.md"
+    "Untitled.md",
+    "JavaScript/210128 Symbol type.md"
   ]
 }
