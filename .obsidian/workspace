@@ -110,18 +110,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.2668762207031
+    "width": 436.0172424316406
   },
   "lastOpenFiles": [
     "Ruby/Basic Ruby/210131 Introduction to objects.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
+    "Database/MySQL/201122 MySQL Basic pt.1.md",
     "JavaScript/210131 Object to primitive coversion.md",
     "JavaScript/210128 Symbol type.md",
     "JavaScript/210125 Method and 'this'.md",
     "JavaScript/210126 Optional chaining.md",
     "JavaScript/210120 Garbage Collection.md",
     "JavaScript/210125 Constructor, operator 'new'.md",
-    "JavaScript/210119 Object References and Copying.md",
-    "JavaScript/210118 Objects.md",
-    "JavaScript/201212 Copy to Clipboard.md"
+    "JavaScript/210119 Object References and Copying.md"
   ]
 }
