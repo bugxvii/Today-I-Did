@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d68a3cf6c7f80302",
+        "id": "8e69a20887aef71c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
-            "mode": "source"
-          }
-        },
-        "group": "2eaaf6d37cbcd1e7"
-      },
-      {
-        "id": "8e69a20887aef71c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
+            "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210131 임진왜란.md",
             "mode": "preview"
           }
-        },
-        "group": "2eaaf6d37cbcd1e7"
+        }
       }
     ],
     "direction": "vertical"
@@ -66,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.0121879577637,
-    "collapsed": true
+    "width": 412.0121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -84,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
+                "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210131 임진왜란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +112,15 @@
     "width": 436.0172424316406
   },
   "lastOpenFiles": [
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210125 정도전.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210131 임진왜란.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
+    "ReadingNote/짧고 굵게 일합니다.md",
+    "ReadingNote/Books.md",
+    "Etcera/210131 Add stdc++.h.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210125 정도전.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210127 청화백자.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/장소/210126 경복궁.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/학문-철학/210129 성리학.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/명문장/210130 대한민국 임시 헌장.md",
-    "210201 title.md",
-    "Etcera/210131 Add stdc++.h.md"
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/학문-철학/210129 성리학.md"
   ]
 }
