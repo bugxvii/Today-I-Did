@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "de443d4eea27eef3",
+        "id": "3c028459e5ae0241",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ReadingNote/Books.md",
+            "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210131 임진왜란.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.0121879577637
+    "width": 350.0121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadingNote/Books.md",
+                "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210131 임진왜란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +113,15 @@
     "width": 387.4532775878906
   },
   "lastOpenFiles": [
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210131 임진왜란.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210125 위화도회군.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/Untitled.md",
     "ReadingNote/0.Books.md",
     "ReadingNote/짧고 굵게 일합니다.md",
     "ReadingNote/Books.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
     "ReadingNote/짧고 굵게 일합니다 - 곤도 마리에.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/Untitled.md",
-    "읽기만 하면  내 것이 되는 1페이지 한국사365.md",
-    "History/Korea/명문장/210130 대한민국 임시 헌장.md",
-    "Untitled.md",
-    "JavaScript/210128 Symbol type.md"
+    "읽기만 하면  내 것이 되는 1페이지 한국사365.md"
   ]
 }
