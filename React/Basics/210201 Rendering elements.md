@@ -59,3 +59,8 @@ In practice, most React apps will run `ReactDOM.render()` only once. We will soo
 React DOM compares the elements and its children to the previous one, and only applies the DOM updates necessary to bring the DOM to the desired state.
 
 For example, go ahead and run the previous `tick()` function and inspect it with the browser tools. Although you passed the whole `element`, you can see that only the  `Date()` (text) node whose contents have changed gets updated by React DOM.
+
+<hr />
+
+## Reference
+- https://reactjs.org/docs/rendering-elements.html
