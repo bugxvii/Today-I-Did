@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8e69a20887aef71c",
+        "id": "10e2cdbe571a4c34",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210131 임진왜란.md",
-            "mode": "preview"
+            "file": "React/Basics/210131 create-react-app & JSX.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#React",
+                "query": "tag:#object",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210131 임진왜란.md",
+                "file": "React/Basics/210131 create-react-app & JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
     "width": 436.0172424316406
   },
   "lastOpenFiles": [
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210131 임진왜란.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
-    "ReadingNote/짧고 굵게 일합니다.md",
-    "ReadingNote/Books.md",
-    "Etcera/210131 Add stdc++.h.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210125 정도전.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210127 청화백자.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/장소/210126 경복궁.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/학문-철학/210129 성리학.md"
+    "React/Basics/210131 Starting.md",
+    "210201 title.md",
+    "JavaScript/210201 Methods of primitives.md",
+    "JavaScript/210131 Object to primitive coversion.md",
+    "JavaScript/210128 Symbol type.md",
+    "JavaScript/210126 Optional chaining.md",
+    "JavaScript/210125 Method and 'this'.md",
+    "JavaScript/210125 Constructor, operator 'new'.md",
+    "JavaScript/210120 Garbage Collection.md",
+    "JavaScript/210119 Object References and Copying.md"
   ]
 }

@@ -1,4 +1,4 @@
-tags: #React #JavaScript 
+tags: #React #JavaScript #JSX
 
 <hr />
 
