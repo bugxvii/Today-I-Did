@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10e2cdbe571a4c34",
+        "id": "d259e3d707211a03",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Basics/210201 Rendering Elements.md",
+            "file": "Ruby/Basic Ruby/210203 Basics pt.2.md",
             "mode": "source"
           }
-        },
-        "group": "849cccd833586655"
-      },
-      {
-        "id": "3aef59847adf1adc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "React/Basics/210201 Rendering Elements.md",
-            "mode": "preview"
-          }
-        },
-        "group": "849cccd833586655"
+        }
       }
     ],
     "direction": "vertical"
@@ -66,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.0121879577637
+    "width": 412.0121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -83,12 +71,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Basics/210201 Rendering Elements.md",
+                "file": "Ruby/Basic Ruby/210203 Basics pt.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -122,18 +110,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.0172424316406
+    "width": 269.5419921875
   },
   "lastOpenFiles": [
-    "React/Basics/210201 Rendering Elements.md",
-    "React/Basics/210131 create-react-app & JSX.md",
-    "React/Basics/210201 Components and Props.md",
-    "React/Basics/210201 Rendering elements.md",
-    "210201 title.md",
-    "React/Basics/210131 Starting.md",
-    "JavaScript/210201 Methods of primitives.md",
-    "JavaScript/210131 Object to primitive coversion.md",
-    "JavaScript/210128 Symbol type.md",
-    "JavaScript/210126 Optional chaining.md"
+    "Ruby/Basic Ruby/210203 Basics pt.2.md",
+    "Ruby/Basic Ruby/210201 Basics pt.1.md",
+    "Ruby/Basic Ruby/210201 Basics.md",
+    "210203 title.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/장소/210202 서원.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210125 정도전.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/장소/210126 경복궁.md",
+    "ReadingNote/Books.md"
   ]
 }
