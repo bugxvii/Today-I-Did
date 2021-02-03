@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "840e9414aa711603",
+        "id": "8231614910258937",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ruby/Basic Ruby/210203 Basics pt.2.md",
+            "file": "JavaScript/210203 Numbers.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Basic Ruby/210203 Basics pt.2.md",
+                "file": "JavaScript/210203 Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +110,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5419921875
+    "width": 367.769775390625
   },
   "lastOpenFiles": [
+    "JavaScript/210203 Numbers pt.1.md",
+    "210203 title.md",
     "Ruby/Basic Ruby/210203 Basics pt.2.md",
     "Ruby/Basic Ruby/210201 Basics pt.1.md",
     "Ruby/Basic Ruby/210131 Introduction to objects.md",
@@ -120,8 +122,6 @@
     "Ruby/Basic Ruby/210129 ASCII.md",
     "Ruby/Basic Ruby/210128 Here documents.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/문화/210128 탕평.md",
-    "Math/201018 Euclidean Distance.md",
-    "Math/201018 Chebyshev Distance.md",
-    "Ruby/Basic Ruby/210201 Basics.md"
+    "Math/201018 Euclidean Distance.md"
   ]
 }
