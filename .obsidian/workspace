@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8231614910258937",
+        "id": "4a2788aef726d247",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
-            "mode": "source"
+            "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210204 신라 금관.md",
+            "mode": "preview"
           }
         }
       }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.0121879577637
+    "width": 412.0121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
+                "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210204 신라 금관.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +113,15 @@
     "width": 461.2668762207031
   },
   "lastOpenFiles": [
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210204 신라 금관.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210127 청화백자.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210204 title.md",
     "210204 title.md",
     "ReadingNote/Books.md",
     "JavaScript/210203 Numbers pt.1.md",
     "210203 title.md",
-    "Ruby/Basic Ruby/210203 Basics pt.2.md",
-    "Ruby/Basic Ruby/210201 Basics pt.1.md",
-    "Ruby/Basic Ruby/210131 Introduction to objects.md"
+    "Ruby/Basic Ruby/210203 Basics pt.2.md"
   ]
 }
