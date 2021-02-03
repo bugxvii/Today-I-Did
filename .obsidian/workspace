@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210204 신라 금관.md",
+            "file": "ReadingNote/짧고 굵게 일합니다.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210204 신라 금관.md",
+                "file": "ReadingNote/짧고 굵게 일합니다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
     "width": 461.2668762207031
   },
   "lastOpenFiles": [
+    "ReadingNote/짧고 굵게 일합니다.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210204 신라 금관.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210127 청화백자.md",
@@ -121,7 +122,6 @@
     "210204 title.md",
     "ReadingNote/Books.md",
     "JavaScript/210203 Numbers pt.1.md",
-    "210203 title.md",
-    "Ruby/Basic Ruby/210203 Basics pt.2.md"
+    "210203 title.md"
   ]
 }
