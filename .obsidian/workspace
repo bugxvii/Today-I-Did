@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/210203 Numbers.md",
-            "mode": "preview"
+            "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
+            "mode": "source"
           }
         }
       }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.0121879577637,
-    "collapsed": true
+    "width": 412.0121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210203 Numbers.md",
+                "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,18 +109,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.769775390625
+    "width": 461.2668762207031
   },
   "lastOpenFiles": [
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210127 청화백자.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210204 title.md",
+    "210204 title.md",
+    "ReadingNote/Books.md",
     "JavaScript/210203 Numbers pt.1.md",
     "210203 title.md",
     "Ruby/Basic Ruby/210203 Basics pt.2.md",
     "Ruby/Basic Ruby/210201 Basics pt.1.md",
-    "Ruby/Basic Ruby/210131 Introduction to objects.md",
-    "Ruby/Basic Ruby/210130 Encoding.md",
-    "Ruby/Basic Ruby/210129 ASCII.md",
-    "Ruby/Basic Ruby/210128 Here documents.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/문화/210128 탕평.md",
-    "Math/201018 Euclidean Distance.md"
+    "Ruby/Basic Ruby/210131 Introduction to objects.md"
   ]
 }
