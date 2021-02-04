@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ruby/Basic Ruby/210204 Data types.md",
-            "mode": "preview"
+            "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/문화/210205 반민특위.md",
+            "mode": "source"
           }
         }
       }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.0121879577637,
-    "collapsed": true
+    "width": 412.0121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Basic Ruby/210204 Data types.md",
+                "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/문화/210205 반민특위.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,18 +109,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.2668762207031
+    "width": 567.266845703125
   },
   "lastOpenFiles": [
-    "Ruby/Basic Ruby/210204 Data types.md",
-    "210204 title.md",
-    "ReadingNote/짧고 굵게 일합니다.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210204 신라 금관.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210127 청화백자.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/문화/210205 반민특위.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/문화/210128 탕평.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/학문-철학/210129 성리학.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210204 title.md",
-    "ReadingNote/Books.md",
-    "JavaScript/210203 Numbers pt.1.md"
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210125 정도전.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/장소/210126 경복궁.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/장소/210202 서원.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210204 신라 금관.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210127 청화백자.md"
   ]
 }
