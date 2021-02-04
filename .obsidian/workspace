@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ReadingNote/짧고 굵게 일합니다.md",
-            "mode": "preview"
+            "file": "Ruby/Basic Ruby/210205 title.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadingNote/짧고 굵게 일합니다.md",
+                "file": "Ruby/Basic Ruby/210205 title.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,9 +109,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 567.266845703125
+    "width": 288.36419677734375
   },
   "lastOpenFiles": [
+    "210205 title.md",
+    "Ruby/Basic Ruby/210204 Data types.md",
     "ReadingNote/짧고 굵게 일합니다.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/문화/210205 반민특위.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/문화/210128 탕평.md",
@@ -119,8 +121,6 @@
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
     "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210125 정도전.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/장소/210126 경복궁.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/장소/210202 서원.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210204 신라 금관.md"
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/장소/210126 경복궁.md"
   ]
 }
