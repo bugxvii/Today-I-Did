@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Structure/201031 Arrayとは.md",
+            "file": "Data Structure/201031 配列(Array)とは.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Structure/201031 Arrayとは.md",
+            "file": "Data Structure/201031 配列(Array)とは.md",
             "mode": "preview"
           }
         },
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/201031 Arrayとは.md",
+                "file": "Data Structure/201031 配列(Array)とは.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
