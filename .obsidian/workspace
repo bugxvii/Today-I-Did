@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Structure/201031 配列(Array)とは.md",
+            "file": "Algorithm/200921 後置記法・逆ポーランド記法に変換.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Structure/201031 配列(Array)とは.md",
+            "file": "Algorithm/200921 後置記法・逆ポーランド記法に変換.md",
             "mode": "preview"
           }
         },
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/201031 配列(Array)とは.md",
+                "file": "Algorithm/200921 後置記法・逆ポーランド記法に変換.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +127,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Algorithm/200921 後置記法・逆ポーランド記法に変換.md",
+    "Algorithm/200921.md",
+    "Algorithm/Untitled.md",
+    "Algorithm/201017 Find all divisors of a natural number.md",
     "Data Structure/201031 Arrayとは.md",
     "Data Structure/201105 map vs. unordered-map.md",
     "Data Structure/201023 Singly Linked List in Stack.md",
     "Data Structure/201020 LinkedList Basic.md",
     "Data Structure/201017 Implement a Stack using Queues.md",
-    "Data Structure/201016 Implement a Queue using Stacks.md",
-    "Data Structure/201016 Deque Array.md",
-    "Data Structure/201014 Queue  Array.md",
-    "Data Structure/201014 Stack Array.md",
-    "Data Structure/Untitled.md"
+    "Data Structure/201016 Implement a Queue using Stacks.md"
   ]
 }
