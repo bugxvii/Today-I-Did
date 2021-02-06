@@ -1,5 +1,7 @@
 tags: #ruby 
 
+<hr />
+
 # Strings
 ## String literals
 We can create a string literal using single or double quotes.

@@ -4,16 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "0d5ee7e5a7e37a24",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ruby/Basic Ruby/210204 Data types pt.1.md",
-            "mode": "preview"
+        "id": "ae3e8fdf8b0da02d",
+        "type": "split",
+        "children": [
+          {
+            "id": "1467a183a8163e9b",
+            "type": "leaf",
+            "dimension": 66.80497925311202,
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruby/Basic Ruby/210206 Data types pt.3.md",
+                "mode": "source"
+              }
+            },
+            "group": "aea33a2c12e8f3bb"
+          },
+          {
+            "id": "17eb3357061ff3ce",
+            "type": "leaf",
+            "dimension": 33.19502074688796,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruby/Basic Ruby/210206 Data types pt.3.md",
+                "mode": "preview"
+              }
+            },
+            "group": "aea33a2c12e8f3bb"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -71,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Basic Ruby/210204 Data types pt.1.md",
+                "file": "Ruby/Basic Ruby/210206 Data types pt.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,18 +132,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.36419677734375
+    "width": 299.5223388671875,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "Ruby/Basic Ruby/210206 Data types pt.3.md",
+    "Ruby/Basic Ruby/210129 ASCII.md",
+    "Ruby/Basic Ruby/210127 Strings.md",
     "Ruby/Basic Ruby/210204 Data types pt.1.md",
     "Ruby/Basic Ruby/210205 Data types pt.2.md",
+    "210206 title.md",
     "Ruby/Basic Ruby/210203 Basics pt.2.md",
     "Ruby/Basic Ruby/210204 Data types.md",
     "210205 title.md",
-    "ReadingNote/짧고 굵게 일합니다.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/문화/210205 반민특위.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/문화/210128 탕평.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/학문-철학/210129 성리학.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md"
+    "ReadingNote/짧고 굵게 일합니다.md"
   ]
 }
