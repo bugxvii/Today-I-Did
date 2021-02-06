@@ -4,38 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "ae3e8fdf8b0da02d",
-        "type": "split",
-        "children": [
-          {
-            "id": "1467a183a8163e9b",
-            "type": "leaf",
-            "dimension": 66.80497925311202,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ruby/Basic Ruby/210206 Data types pt.3.md",
-                "mode": "source"
-              }
-            },
-            "group": "aea33a2c12e8f3bb"
-          },
-          {
-            "id": "17eb3357061ff3ce",
-            "type": "leaf",
-            "dimension": 33.19502074688796,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ruby/Basic Ruby/210206 Data types pt.3.md",
-                "mode": "preview"
-              }
-            },
-            "group": "aea33a2c12e8f3bb"
+        "id": "17eb3357061ff3ce",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Competitive Programming/210131 Add stdc++.h.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        },
+        "group": "e1343e3a971c9509"
+      },
+      {
+        "id": "411b6a7d265014b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Competitive Programming/210131 Add stdc++.h.md",
+            "mode": "preview"
+          }
+        },
+        "group": "e1343e3a971c9509"
       }
     ],
     "direction": "vertical"
@@ -75,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.0121879577637,
-    "collapsed": true
+    "width": 412.0121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -93,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Basic Ruby/210206 Data types pt.3.md",
+                "file": "Competitive Programming/210131 Add stdc++.h.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,19 +122,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5223388671875,
+    "width": 380.45318603515625,
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Ruby/Basic Ruby/210206 Data types pt.3.md",
-    "Ruby/Basic Ruby/210129 ASCII.md",
-    "Ruby/Basic Ruby/210127 Strings.md",
-    "Ruby/Basic Ruby/210204 Data types pt.1.md",
-    "Ruby/Basic Ruby/210205 Data types pt.2.md",
-    "210206 title.md",
-    "Ruby/Basic Ruby/210203 Basics pt.2.md",
-    "Ruby/Basic Ruby/210204 Data types.md",
-    "210205 title.md",
-    "ReadingNote/짧고 굵게 일합니다.md"
+    "Etcera/210131 Add stdc++.h.md",
+    "Competitive Programming/201012 Complexity Analysis.md",
+    "JavaScript/210118 Test automation with Mocha & Polyfill.md",
+    "JavaScript/210117 Coding style & Ninja code 1.md",
+    "JavaScript/210117 Coding style & Ninja code.md",
+    "Software Development/Agile programming and TDD + BDD.md",
+    "Untitled.md",
+    "JavaScript/210113 Debugging with chrome.md",
+    "JavaScript/210113 Debugging with chrome 1.md",
+    "JavaScript/210206 title.md"
   ]
 }
