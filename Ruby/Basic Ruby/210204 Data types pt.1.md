@@ -1,4 +1,5 @@
 tags: #ruby #data-type 
+related: [[210205 Data types pt.2]]
 
 <hr />
 
