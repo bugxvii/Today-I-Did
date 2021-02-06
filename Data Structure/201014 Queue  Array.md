@@ -1,4 +1,4 @@
-tags: #queue #array #ds
+tags: #queue #array #data-structure
 
 ## Queue
 - Queue implements a **First-in, First-out** or **FIFO** policy.

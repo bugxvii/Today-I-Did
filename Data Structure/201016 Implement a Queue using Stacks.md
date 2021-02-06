@@ -1,4 +1,4 @@
-tags: #queue #stack #ds 
+tags: #queue #stack #data-structure
 
 ## Stack-Queue
 

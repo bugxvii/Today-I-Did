@@ -1,4 +1,4 @@
-tags: #stack #array #ds 
+tags: #stack #array #data-structure
 
 ## Stack
 - Stack implements a **Last-in, First-out** or **LIFO** policy.

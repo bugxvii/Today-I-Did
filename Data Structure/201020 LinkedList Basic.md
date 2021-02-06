@@ -1,4 +1,4 @@
-tags: #linkedlist
+tags: #linkedlis #data-structure
 
 ## Linked List
 

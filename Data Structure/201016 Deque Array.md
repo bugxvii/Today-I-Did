@@ -1,4 +1,4 @@
-tags: #ps #deque #array
+tags: #ps #deque #array #data-structure
 
 ## Deque (Double-ended Queue)
 

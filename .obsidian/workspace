@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "17eb3357061ff3ce",
+        "id": "411b6a7d265014b7",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Competitive Programming/210131 Add stdc++.h.md",
+            "file": "Data Structure/201031 Arrayとは.md",
             "mode": "source"
           }
         },
-        "group": "e1343e3a971c9509"
+        "group": "1522cf4632b15baf"
       },
       {
-        "id": "411b6a7d265014b7",
+        "id": "a64d246a9ddaa2ba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Competitive Programming/210131 Add stdc++.h.md",
+            "file": "Data Structure/201031 Arrayとは.md",
             "mode": "preview"
           }
         },
-        "group": "e1343e3a971c9509"
+        "group": "1522cf4632b15baf"
       }
     ],
     "direction": "vertical"
@@ -66,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.0121879577637
+    "width": 412.0121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Competitive Programming/210131 Add stdc++.h.md",
+                "file": "Data Structure/201031 Arrayとは.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +127,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Etcera/210131 Add stdc++.h.md",
-    "Competitive Programming/201012 Complexity Analysis.md",
-    "JavaScript/210118 Test automation with Mocha & Polyfill.md",
-    "JavaScript/210117 Coding style & Ninja code 1.md",
-    "JavaScript/210117 Coding style & Ninja code.md",
-    "Software Development/Agile programming and TDD + BDD.md",
-    "Untitled.md",
-    "JavaScript/210113 Debugging with chrome.md",
-    "JavaScript/210113 Debugging with chrome 1.md",
-    "JavaScript/210206 title.md"
+    "Data Structure/201031 Arrayとは.md",
+    "Data Structure/201105 map vs. unordered-map.md",
+    "Data Structure/201023 Singly Linked List in Stack.md",
+    "Data Structure/201020 LinkedList Basic.md",
+    "Data Structure/201017 Implement a Stack using Queues.md",
+    "Data Structure/201016 Implement a Queue using Stacks.md",
+    "Data Structure/201016 Deque Array.md",
+    "Data Structure/201014 Queue  Array.md",
+    "Data Structure/201014 Stack Array.md",
+    "Data Structure/Untitled.md"
   ]
 }

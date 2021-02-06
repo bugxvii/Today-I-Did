@@ -1,4 +1,4 @@
-tags: #stack #linkedlist 
+tags: #stack #linkedlist #data-structure
 
 ## Stack - Singly Linked List
 
