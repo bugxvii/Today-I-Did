@@ -10,23 +10,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorithm/200921 後置記法・逆ポーランド記法に変換.md",
-            "mode": "source"
-          }
-        },
-        "group": "1522cf4632b15baf"
-      },
-      {
-        "id": "a64d246a9ddaa2ba",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algorithm/200921 後置記法・逆ポーランド記法に変換.md",
+            "file": "JavaScript/210207 Strings.md",
             "mode": "preview"
           }
-        },
-        "group": "1522cf4632b15baf"
+        }
       }
     ],
     "direction": "vertical"
@@ -53,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#JavaScript",
+                "query": "#string",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/200921 後置記法・逆ポーランド記法に変換.md",
+                "file": "JavaScript/210207 Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +114,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Algorithm/200921 後置記法・逆ポーランド記法に変換.md",
-    "Algorithm/200921.md",
-    "Algorithm/Untitled.md",
-    "Algorithm/201017 Find all divisors of a natural number.md",
-    "Data Structure/201031 Arrayとは.md",
-    "Data Structure/201105 map vs. unordered-map.md",
+    "JavaScript/210207 Strings.md",
+    "JavaScript/210104 JavaScript fundamentals pt.1.md",
+    "JavaScript/210201 Methods of primitives.md",
+    "JavaScript/210128 Symbol type.md",
+    "JavaScript/210131 Object to primitive coversion.md",
+    "JavaScript/210203 Numbers.md",
+    "210207.md",
     "Data Structure/201023 Singly Linked List in Stack.md",
     "Data Structure/201020 LinkedList Basic.md",
-    "Data Structure/201017 Implement a Stack using Queues.md",
-    "Data Structure/201016 Implement a Queue using Stacks.md"
+    "Algorithm/201017 Find all divisors of a natural number.md"
   ]
 }
