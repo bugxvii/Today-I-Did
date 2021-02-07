@@ -10,10 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorithm/Reverse Polish Notation/200921 後置記法・逆ポーランド記法に変換.md",
+            "file": "Competitive Programming/Leetcode/Japanese/1672 - Richest Customer Wealth.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "e68b33eeb0d9ba34"
+      },
+      {
+        "id": "2e4621447bc4d665",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Competitive Programming/Leetcode/Japanese/1672 - Richest Customer Wealth.md",
+            "mode": "preview"
+          }
+        },
+        "group": "e68b33eeb0d9ba34"
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Reverse Polish Notation/200921 後置記法・逆ポーランド記法に変換.md",
+                "file": "Competitive Programming/Leetcode/Japanese/1672 - Richest Customer Wealth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +126,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Algorithm/Reverse Polish Notation/200921 後置記法・逆ポーランド記法に変換.md",
-    "Data Structure/Linked List/0. Linked List Basic/200509 What is a Linked List.md",
-    "Algorithm/Reverse Polish Notation/200921 Reverse Polish Notation.md",
-    "Algorithm/Reverse Polish Notation/200921 중위표기식 후위표기식으로 변환하기.md",
-    "Algorithm/Reverse Polish Notation/Untitled.md",
-    "Algorithm/200921 後置記法・逆ポーランド記法に変換.md",
-    "Data Structure/Linked List/3. Circular Linked List/200718 원형 연결 리스트(Circular Linked List)란.md",
-    "Data Structure/Linked List/3. Circular Linked List/200718 循環リスト(Circular Linked List)とは.md",
-    "Data Structure/Linked List/3. Circular Linked List/200718 What is a Circular Linked List.md",
-    "Data Structure/Linked List/3. Circular Linked List/Untitled.md"
+    "Competitive Programming/Leetcode/Japanese/1672 - Richest Customer Wealth.md",
+    "Competitive Programming/Leetcode/Japanese/1662 - Check If Two String Arrays are Equivalent.md",
+    "Competitive Programming/Leetcode/Japanese/Untitled.md",
+    "Competitive Programming/Leetcode/Japanese/1614 - Maximum Nesting Depth of the Parentheses.md",
+    "Competitive Programming/Leetcode/Japanese/1603 - Design Parking System.md",
+    "Competitive Programming/Leetcode/Japanese/1528 - Shuffle String.md",
+    "Competitive Programming/Leetcode/Japanese/1480 - Running Sum of 1d Array.md",
+    "Competitive Programming/Leetcode/Japanese/1512 - Number of Good Pairs.md",
+    "Competitive Programming/Leetcode/Japanese/1486 - XOR Operation in an Array.md",
+    "Competitive Programming/Leetcode/Japanese/1470 - Shuffle the Array.md"
   ]
 }
