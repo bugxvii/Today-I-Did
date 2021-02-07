@@ -4,38 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8819ec94b2f6923",
-        "type": "split",
-        "children": [
-          {
-            "id": "411b6a7d265014b7",
-            "type": "leaf",
-            "dimension": 60.47717842323651,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/210207 Arrays.md",
-                "mode": "source"
-              }
-            },
-            "group": "bb6dbd6259ff52bd"
-          },
-          {
-            "id": "33590dedf08a0846",
-            "type": "leaf",
-            "dimension": 39.522821576763484,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/210207 Arrays.md",
-                "mode": "preview"
-              }
-            },
-            "group": "bb6dbd6259ff52bd"
+        "id": "411b6a7d265014b7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Data Structure/Queue/201016 Implement a Queue using Stacks.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -75,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.0121879577637,
-    "collapsed": true
+    "width": 355.0121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -85,7 +62,7 @@
       {
         "id": "a7dbddaf5919b6a3",
         "type": "tabs",
-        "dimension": 31.841652323580032,
+        "dimension": 37.48701973001039,
         "children": [
           {
             "id": "1520334f11a1da5e",
@@ -93,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210207 Arrays.md",
+                "file": "Data Structure/Queue/201016 Implement a Queue using Stacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +84,7 @@
       {
         "id": "9276eb946d5dc8e7",
         "type": "tabs",
-        "dimension": 68.15834767641996,
+        "dimension": 62.51298026998961,
         "children": [
           {
             "id": "d6efd556d017638d",
@@ -132,19 +109,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.854248046875,
-    "collapsed": true
+    "width": 317.854248046875
   },
   "lastOpenFiles": [
+    "Data Structure/Queue/201016 Implement a Queue using Stacks.md",
+    "Data Structure/Stack/201017 Implement a Stack using Queues.md",
+    "Data Structure/201016 Deque Array.md",
+    "Data Structure/201105 map vs. unordered-map.md",
+    "Data Structure/201014 Stack Array.md",
+    "Data Structure/201014 Queue  Array.md",
     "JavaScript/210207 Arrays.md",
     "JavaScript/210206 Arrays.md",
     "210207.md",
-    "210209.md",
-    "210208.md",
-    "JavaScript/210206 Strings.md",
-    "JavaScript/210206　Arrays.md",
-    "JavaScript/210207 Strings.md",
-    "JavaScript/210104 JavaScript fundamentals pt.1.md",
-    "JavaScript/210201 Methods of primitives.md"
+    "210209.md"
   ]
 }
