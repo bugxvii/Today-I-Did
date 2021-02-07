@@ -1,4 +1,4 @@
-tags: #stack #linkedlist #data-structure
+tags: #stack #linkedlist #data-structure #english
 
 ## Stack - Singly Linked List
 
@@ -68,12 +68,11 @@ In C++, we need to manage the memory on our own. So we need to store the deletin
 deallocate its memory. If you're using a language that has an automatic memory management, or a *garbage collector*,
 you can skip it.
 
-[View](https://github.com/jioneeu/ds-algo/blob/master/stack/linkedlist) full source code of 
-stack implementation using a singly linked list.
+[View](https://github.com/jioneeu/ds-algo/blob/master/stack/linkedlist) full source code of stack implementation using a singly linked list.
 
 ## Related Posts
 - [[201020 LinkedList Basic]]
-- [[201014 Stack Array | Implementing Stack using an Array.]]
+- [[201014 Implement a Stack using Array]]
 
 ## Reference
 - Introduction to Algorithms, 3rd Edition (CLRS)

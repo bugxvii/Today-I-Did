@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "411b6a7d265014b7",
+        "id": "1b10be9ba5d3038f",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Structure/Queue/201016 Implement a Queue using Stacks.md",
-            "mode": "preview"
+            "file": "Algorithm/Reverse Polish Notation/200921 後置記法・逆ポーランド記法に変換.md",
+            "mode": "source"
           }
         }
       }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#modern-js",
-                "matchingCase": false,
+                "query": "english",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/Queue/201016 Implement a Queue using Stacks.md",
+                "file": "Algorithm/Reverse Polish Notation/200921 後置記法・逆ポーランド記法に変換.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,18 +109,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.854248046875
+    "width": 348.45318603515625,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Data Structure/Queue/201016 Implement a Queue using Stacks.md",
-    "Data Structure/Stack/201017 Implement a Stack using Queues.md",
-    "Data Structure/201016 Deque Array.md",
-    "Data Structure/201105 map vs. unordered-map.md",
-    "Data Structure/201014 Stack Array.md",
-    "Data Structure/201014 Queue  Array.md",
-    "JavaScript/210207 Arrays.md",
-    "JavaScript/210206 Arrays.md",
-    "210207.md",
-    "210209.md"
+    "Algorithm/Reverse Polish Notation/200921 後置記法・逆ポーランド記法に変換.md",
+    "Data Structure/Linked List/0. Linked List Basic/200509 What is a Linked List.md",
+    "Algorithm/Reverse Polish Notation/200921 Reverse Polish Notation.md",
+    "Algorithm/Reverse Polish Notation/200921 중위표기식 후위표기식으로 변환하기.md",
+    "Algorithm/Reverse Polish Notation/Untitled.md",
+    "Algorithm/200921 後置記法・逆ポーランド記法に変換.md",
+    "Data Structure/Linked List/3. Circular Linked List/200718 원형 연결 리스트(Circular Linked List)란.md",
+    "Data Structure/Linked List/3. Circular Linked List/200718 循環リスト(Circular Linked List)とは.md",
+    "Data Structure/Linked List/3. Circular Linked List/200718 What is a Circular Linked List.md",
+    "Data Structure/Linked List/3. Circular Linked List/Untitled.md"
   ]
 }
