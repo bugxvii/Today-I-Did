@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1b10be9ba5d3038f",
+        "id": "642882acb760a3c0",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/210208 Array methods pt.1.md",
-            "mode": "preview"
+            "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
+            "mode": "source"
           }
         }
       }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.0121879577637,
-    "collapsed": true
+    "width": 302.0121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210208 Array methods pt.1.md",
+                "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,18 +109,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.30123901367188
+    "width": 443.2669372558594
   },
   "lastOpenFiles": [
-    "JavaScript/210208 Array methods pt.1.md",
-    "JavaScript/210207 Arrays.md",
-    "JavaScript/210208 Array methods.md",
-    "JavaScript/201119 Array Insert.md",
-    "210208.md",
-    "Competitive Programming/Leetcode/Japanese/141 - Linked List Cycle.md",
-    "Competitive Programming/Leetcode/Japanese/206 - Reverse Linked List.md",
-    "Competitive Programming/Leetcode/Japanese/237 - Delete Node in a Linked List.md",
-    "Competitive Programming/Leetcode/Japanese/1672 - Richest Customer Wealth.md",
-    "Competitive Programming/Leetcode/Japanese/1662 - Check If Two String Arrays are Equivalent.md"
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/학문-철학/210209 민족주의.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/명문장/210209 공허한 말만 있다면 어찌 일을 이룰 수 있겠습니까.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/명문장/210130 대한민국 임시 헌장.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/명문장/Untitled.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/학문-철학/210129 성리학.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/학문-철학/Untitled.md",
+    "ReadingNote/짧고 굵게 일합니다.md",
+    "ReadingNote/Books.md",
+    "계정/ryuj0415@gmail.com.md"
   ]
 }
