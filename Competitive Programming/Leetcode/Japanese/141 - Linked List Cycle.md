@@ -40,3 +40,6 @@ def hasCycle(head)
   false
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/141 - Linked List Cycle | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/141 - Linked List Cycle | C++ solution]]
