@@ -10,23 +10,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Competitive Programming/Leetcode/Japanese/1672 - Richest Customer Wealth.md",
-            "mode": "source"
-          }
-        },
-        "group": "e68b33eeb0d9ba34"
-      },
-      {
-        "id": "2e4621447bc4d665",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Competitive Programming/Leetcode/Japanese/1672 - Richest Customer Wealth.md",
+            "file": "JavaScript/210208 Array methods pt.1.md",
             "mode": "preview"
           }
-        },
-        "group": "e68b33eeb0d9ba34"
+        }
       }
     ],
     "direction": "vertical"
@@ -53,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "english",
+                "query": "tag:#data-type",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.0121879577637
+    "width": 445.0121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -83,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Competitive Programming/Leetcode/Japanese/1672 - Richest Customer Wealth.md",
+                "file": "JavaScript/210208 Array methods pt.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +110,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.45318603515625,
-    "collapsed": true
+    "width": 240.30123901367188
   },
   "lastOpenFiles": [
+    "JavaScript/210208 Array methods pt.1.md",
+    "JavaScript/210207 Arrays.md",
+    "JavaScript/210208 Array methods.md",
+    "JavaScript/201119 Array Insert.md",
+    "210208.md",
+    "Competitive Programming/Leetcode/Japanese/141 - Linked List Cycle.md",
+    "Competitive Programming/Leetcode/Japanese/206 - Reverse Linked List.md",
+    "Competitive Programming/Leetcode/Japanese/237 - Delete Node in a Linked List.md",
     "Competitive Programming/Leetcode/Japanese/1672 - Richest Customer Wealth.md",
-    "Competitive Programming/Leetcode/Japanese/1662 - Check If Two String Arrays are Equivalent.md",
-    "Competitive Programming/Leetcode/Japanese/Untitled.md",
-    "Competitive Programming/Leetcode/Japanese/1614 - Maximum Nesting Depth of the Parentheses.md",
-    "Competitive Programming/Leetcode/Japanese/1603 - Design Parking System.md",
-    "Competitive Programming/Leetcode/Japanese/1528 - Shuffle String.md",
-    "Competitive Programming/Leetcode/Japanese/1480 - Running Sum of 1d Array.md",
-    "Competitive Programming/Leetcode/Japanese/1512 - Number of Good Pairs.md",
-    "Competitive Programming/Leetcode/Japanese/1486 - XOR Operation in an Array.md",
-    "Competitive Programming/Leetcode/Japanese/1470 - Shuffle the Array.md"
+    "Competitive Programming/Leetcode/Japanese/1662 - Check If Two String Arrays are Equivalent.md"
   ]
 }
