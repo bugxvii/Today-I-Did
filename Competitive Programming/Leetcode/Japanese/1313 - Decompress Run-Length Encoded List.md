@@ -24,3 +24,6 @@ def decompress_rl_elist(nums)
     result
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1313 - Decompress Run-Length Encoded List | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1313 - Decompress Run-Length Encoded List | C++ solution]]

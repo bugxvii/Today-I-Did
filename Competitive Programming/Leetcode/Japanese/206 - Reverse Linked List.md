@@ -60,3 +60,6 @@ def reverse_list(head)
   p
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/206 - Reverse Linked List | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/206 - Reverse Linked List | C++ solution]]

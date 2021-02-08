@@ -18,3 +18,6 @@ def shuffle(nums, n)
     result
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1470 - Shuffle the Array | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1470 - Shuffle the Array | C++ solution]]

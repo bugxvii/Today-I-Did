@@ -20,3 +20,6 @@ def find_numbers(nums)
   result
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1295 - Find Numbers with Even Number of Digits | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1295 - Find Numbers with Even Number of Digits | C++ solution]]

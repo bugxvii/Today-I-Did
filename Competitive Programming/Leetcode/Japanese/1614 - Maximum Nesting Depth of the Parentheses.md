@@ -25,3 +25,6 @@ def max_depth(s)
   max
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1614 - Maximum Nesting Depth of the Parentheses | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1614 - Maximum Nesting Depth of the Parentheses | C++ solution]]

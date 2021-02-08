@@ -24,3 +24,6 @@ def maximum_wealth(accounts)
   max
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1672 - Richest Customer Wealth | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1672 - Richest Customer Wealth | C++ solution]]

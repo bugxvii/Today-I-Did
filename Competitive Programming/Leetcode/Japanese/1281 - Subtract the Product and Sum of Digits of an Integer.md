@@ -24,3 +24,6 @@ def subtract_product_and_sum(n)
   p - s
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1281 - Subtract the Product and Sum of Digits of an Integer | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1281 - Subtract the Product and Sum of Digits of an Integer | C++ solution]]

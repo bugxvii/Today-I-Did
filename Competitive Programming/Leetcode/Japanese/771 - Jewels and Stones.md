@@ -17,3 +17,6 @@ def num_jewels_in_stones(j, s)
     cnt
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/771 - Jewels and Stones | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/771 - Jewels and Stones | C++ solution]]

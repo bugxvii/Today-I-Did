@@ -18,3 +18,6 @@ def create_target_array(nums, index)
   result
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1389 - Create Target Array in the Given Order | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1389 - Create Target Array in the Given Order | C++ solution]]

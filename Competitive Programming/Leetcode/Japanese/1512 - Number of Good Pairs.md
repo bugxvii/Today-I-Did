@@ -21,3 +21,6 @@ def num_identical_pairs(nums)
     cnt
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1512 - Number of Good Pairs | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1512 - Number of Good Pairs | C++ solution]]

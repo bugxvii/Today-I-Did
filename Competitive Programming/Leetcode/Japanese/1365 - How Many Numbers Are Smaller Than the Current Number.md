@@ -24,3 +24,6 @@ def smaller_numbers_than_current(nums)
   temp
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1365 - How Many Numbers Are Smaller Than the Current Number | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1365 - How Many Numbers Are Smaller Than the Current Number | C++ solution]]

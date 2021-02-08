@@ -18,3 +18,6 @@ def restore_string(s, indices)
     return result
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1528 - Shuffle String | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1528 - Shuffle String | C++ solution]]

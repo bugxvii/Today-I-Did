@@ -38,3 +38,6 @@ def middle_node(head)
   temp
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/876 - Middle of the Linked List | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/876 - Middle of the Linked List | C++ solution]]

@@ -20,3 +20,6 @@ def kids_with_candies(candies, extra_candies)
     result
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1431 - Kids With the Greatest Number of Candies | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1431 - Kids With the Greatest Number of Candies | C++ solution]]

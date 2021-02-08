@@ -38,3 +38,6 @@ class ParkingSystem
   end
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1603 - Design Parking System | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1603 - Design Parking System | C++ solution]]

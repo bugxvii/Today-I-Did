@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Competitive Programming/Leetcode/English/1672 - Richest Customer Wealth.md",
-            "mode": "source"
+            "file": "Competitive Programming/Leetcode/Japanese/141 - Linked List Cycle.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Competitive Programming/Leetcode/English/1672 - Richest Customer Wealth.md",
+                "file": "Competitive Programming/Leetcode/Japanese/141 - Linked List Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Competitive Programming/Leetcode/Japanese/141 - Linked List Cycle.md",
+    "Competitive Programming/Leetcode/Korean/1672 - Richest Customer Wealth.md",
+    "Competitive Programming/Leetcode/Japanese/1672 - Richest Customer Wealth.md",
     "Competitive Programming/Leetcode/English/1672 - Richest Customer Wealth.md",
-    "Competitive Programming/Leetcode/English/1662 - Check If Two String Arrays are Equivalent.md",
-    "Competitive Programming/Leetcode/English/1614 - Maximum Nesting Depth of the Parentheses.md",
-    "Competitive Programming/Leetcode/English/1603 - Design Parking System.md",
-    "Competitive Programming/Leetcode/English/1528 - Shuffle String.md",
-    "Competitive Programming/Leetcode/English/1512 - Number of Good Pairs.md",
-    "Competitive Programming/Leetcode/English/1486 - XOR Operation in an Array.md",
-    "Competitive Programming/Leetcode/English/1480 - Running Sum of 1d Array.md",
-    "Competitive Programming/Leetcode/English/1470 - Shuffle the Array.md",
-    "Competitive Programming/Leetcode/English/1431 - Kids With the Greatest Number of Candies.md"
+    "Competitive Programming/Leetcode/Japanese/1662 - Check If Two String Arrays are Equivalent.md",
+    "Competitive Programming/Leetcode/Japanese/1614 - Maximum Nesting Depth of the Parentheses.md",
+    "Competitive Programming/Leetcode/Japanese/1603 - Design Parking System.md",
+    "Competitive Programming/Leetcode/Japanese/1528 - Shuffle String.md",
+    "Competitive Programming/Leetcode/Japanese/1512 - Number of Good Pairs.md",
+    "Competitive Programming/Leetcode/Japanese/1486 - XOR Operation in an Array.md"
   ]
 }

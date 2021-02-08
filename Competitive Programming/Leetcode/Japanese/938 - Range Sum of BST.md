@@ -34,3 +34,6 @@ def range_sum_bst(root, low, high)
   sum
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/938 - Range Sum of BST | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/938 - Range Sum of BST | C++ solution]]

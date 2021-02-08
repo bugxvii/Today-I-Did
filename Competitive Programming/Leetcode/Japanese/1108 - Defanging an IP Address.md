@@ -24,3 +24,6 @@ def defang_i_paddr(address)
     address
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1108 - Defanging an IP Address | JavaScrpit solution]]
+[[Competitive Programming/Leetcode/English/1108 - Defanging an IP Address | C++ solution]]

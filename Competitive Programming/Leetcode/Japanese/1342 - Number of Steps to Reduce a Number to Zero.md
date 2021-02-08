@@ -38,3 +38,6 @@ def number_of_steps (num)
     cnt
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1342 - Number of Steps to Reduce a Number to Zero | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1342 - Number of Steps to Reduce a Number to Zero | C++ solution]]

@@ -16,3 +16,6 @@ def xor_operation(n, start)
   result
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1486 - XOR Operation in an Array | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1486 - XOR Operation in an Array | C++ solution]]

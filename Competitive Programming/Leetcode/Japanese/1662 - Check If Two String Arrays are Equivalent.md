@@ -22,3 +22,6 @@ def array_strings_are_equal(word1, word2)
   true
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/1662 - Check If Two String Arrays are Equivalent | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/1662 - Check If Two String Arrays are Equivalent | C++ solution]]

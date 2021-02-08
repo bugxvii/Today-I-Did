@@ -26,3 +26,6 @@ def delete_node(node)
   node.next = node.next.next
 end
 ```
+
+[[Competitive Programming/Leetcode/Korean/237 - Delete Node in a Linked List | JavaScript solution]]
+[[Competitive Programming/Leetcode/English/237 - Delete Node in a Linked List | C++ solution]]
