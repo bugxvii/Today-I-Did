@@ -22,3 +22,6 @@ class Solution {
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1486 - XOR Operation in an Array | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1486 - XOR Operation in an Array | Ruby solution]]

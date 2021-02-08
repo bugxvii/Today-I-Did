@@ -30,3 +30,6 @@ class Solution {
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1281 - Subtract the Product and Sum of Digits of an Integer | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1281 - Subtract the Product and Sum of Digits of an Integer | Ruby solution]]

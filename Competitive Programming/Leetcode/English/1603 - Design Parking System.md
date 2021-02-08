@@ -31,3 +31,6 @@ class ParkingSystem {
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1603 - Design Parking System | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1603 - Design Parking System | Ruby solution]]

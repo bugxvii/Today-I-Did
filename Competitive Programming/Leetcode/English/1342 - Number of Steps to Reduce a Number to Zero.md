@@ -25,3 +25,6 @@ public:
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1342 - Number of Steps to Reduce a Number to Zero | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1342 - Number of Steps to Reduce a Number to Zero | Ruby solution]]

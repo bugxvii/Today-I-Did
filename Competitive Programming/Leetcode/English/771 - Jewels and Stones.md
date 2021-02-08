@@ -27,3 +27,6 @@ public:
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/771 - Jewels and Stones | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/771 - Jewels and Stones | Ruby solution]]

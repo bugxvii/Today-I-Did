@@ -27,3 +27,6 @@ class Solution {
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1389 - Create Target Array in the Given Order | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1389 - Create Target Array in the Given Order | Ruby solution]]

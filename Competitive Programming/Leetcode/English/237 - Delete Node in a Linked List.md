@@ -43,3 +43,6 @@ class Solution {
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/237 - Delete Node in a Linked List | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/237 - Delete Node in a Linked List | Ruby solution]]

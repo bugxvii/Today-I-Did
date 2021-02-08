@@ -37,3 +37,6 @@ class Solution {
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/938 - Range Sum of BST | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/938 - Range Sum of BST | Ruby solution]]

@@ -29,3 +29,6 @@ public:
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1431 - Kids With the Greatest Number of Candies | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1431 - Kids With the Greatest Number of Candies | Ruby solution]]

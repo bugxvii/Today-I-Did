@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f4bc7daf534e9ac3",
-        "type": "split",
-        "children": [
-          {
-            "id": "642882acb760a3c0",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Competitive Programming/Leetcode/English/206 - Reverse Linked List.md",
-                "mode": "source"
-              }
-            },
-            "group": "3cdfeff0ea2891f9"
-          },
-          {
-            "id": "d907247db9738236",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Competitive Programming/Leetcode/English/206 - Reverse Linked List.md",
-                "mode": "preview"
-              }
-            },
-            "group": "3cdfeff0ea2891f9"
+        "id": "642882acb760a3c0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Competitive Programming/Leetcode/English/1672 - Richest Customer Wealth.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Competitive Programming/Leetcode/English/206 - Reverse Linked List.md",
+                "file": "Competitive Programming/Leetcode/English/1672 - Richest Customer Wealth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +113,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Competitive Programming/Leetcode/English/206 - Reverse Linked List.md",
-    "Competitive Programming/Leetcode/Korean/141 - Linked List Cycle.md",
-    "Competitive Programming/Leetcode/Japanese/141 - Linked List Cycle.md",
-    "Competitive Programming/Leetcode/English/141 - Linked List Cycle.md",
     "Competitive Programming/Leetcode/English/1672 - Richest Customer Wealth.md",
-    "Competitive Programming/Leetcode/Korean/1672 - Richest Customer Wealth.md",
-    "Competitive Programming/Leetcode/Korean/1662 - Check If Two String Arrays are Equivalent.md",
-    "Competitive Programming/Leetcode/Korean/1614 - Maximum Nesting Depth of the Parentheses.md",
-    "Competitive Programming/Leetcode/Korean/1603 - Design Parking System.md",
-    "Competitive Programming/Leetcode/Korean/1528 - Shuffle String.md"
+    "Competitive Programming/Leetcode/English/1662 - Check If Two String Arrays are Equivalent.md",
+    "Competitive Programming/Leetcode/English/1614 - Maximum Nesting Depth of the Parentheses.md",
+    "Competitive Programming/Leetcode/English/1603 - Design Parking System.md",
+    "Competitive Programming/Leetcode/English/1528 - Shuffle String.md",
+    "Competitive Programming/Leetcode/English/1512 - Number of Good Pairs.md",
+    "Competitive Programming/Leetcode/English/1486 - XOR Operation in an Array.md",
+    "Competitive Programming/Leetcode/English/1480 - Running Sum of 1d Array.md",
+    "Competitive Programming/Leetcode/English/1470 - Shuffle the Array.md",
+    "Competitive Programming/Leetcode/English/1431 - Kids With the Greatest Number of Candies.md"
   ]
 }

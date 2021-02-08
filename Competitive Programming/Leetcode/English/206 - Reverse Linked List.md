@@ -70,3 +70,6 @@ class Solution {
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/206 - Reverse Linked List | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/206 - Reverse Linked List | Ruby s olution]]

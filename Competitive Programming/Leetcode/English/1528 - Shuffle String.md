@@ -23,3 +23,6 @@ public:
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1528 - Shuffle String | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1528 - Shuffle String | Ruby solution]]

@@ -29,3 +29,6 @@ public:
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1108 - Defanging an IP Address | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1108 - Defanging an IP Address | Ruby solution]]

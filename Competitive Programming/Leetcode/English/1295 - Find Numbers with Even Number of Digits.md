@@ -31,3 +31,6 @@ class Solution {
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1295 - Find Numbers with Even Number of Digits | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1295 - Find Numbers with Even Number of Digits | Ruby solution]]

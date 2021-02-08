@@ -46,3 +46,6 @@ class Solution {
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/876 - Middle of the Linked List | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/876 - Middle of the Linked List | Ruby solution]]

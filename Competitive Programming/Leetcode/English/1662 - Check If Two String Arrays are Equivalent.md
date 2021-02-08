@@ -38,3 +38,6 @@ class Solution {
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1662 - Check If Two String Arrays are Equivalent | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1662 - Check If Two String Arrays are Equivalent | Ruby solution]]

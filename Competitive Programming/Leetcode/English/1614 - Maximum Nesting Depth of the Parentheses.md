@@ -36,3 +36,6 @@ class Solution {
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1614 - Maximum Nesting Depth of the Parentheses | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1614 - Maximum Nesting Depth of the Parentheses | Ruby solution]]

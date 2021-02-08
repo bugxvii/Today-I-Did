@@ -53,3 +53,6 @@ public:
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1480 - Running Sum of 1d Array | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1480 - Running Sum of 1d Array | Ruby solution]]

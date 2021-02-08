@@ -39,3 +39,6 @@ class Solution {
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1290 - Convert Binary Number in a Linked List to Integer | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1290 - Convert Binary Number in a Linked List to Integer | Ruby solution]]

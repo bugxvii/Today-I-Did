@@ -29,3 +29,6 @@ class Solution {
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1313 - Decompress Run-Length Encoded List | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1313 - Decompress Run-Length Encoded List | Ruby solution]]

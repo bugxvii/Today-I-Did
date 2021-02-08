@@ -25,3 +25,6 @@ public:
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1470 - Shuffle the Array | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1470 - Shuffle the Array | Ruby solution]]

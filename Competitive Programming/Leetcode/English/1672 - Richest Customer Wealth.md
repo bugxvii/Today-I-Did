@@ -27,5 +27,5 @@ class Solution {
 };
 ```
 
-[[Competitive Programming/Leetcode/Japanese/1672 - Richest Customer Wealth | Ruby solution]]
 [[Competitive Programming/Leetcode/Korean/1672 - Richest Customer Wealth | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1672 - Richest Customer Wealth | Ruby solution]]

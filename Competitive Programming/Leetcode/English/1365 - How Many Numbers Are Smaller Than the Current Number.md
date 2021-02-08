@@ -67,3 +67,6 @@ class Solution {
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1365 - How Many Numbers Are Smaller Than the Current Number | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1365 - How Many Numbers Are Smaller Than the Current Number | Ruby solution]]

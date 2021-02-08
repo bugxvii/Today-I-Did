@@ -1,4 +1,4 @@
-tags: #leetcode #easy #english #ruby #array #hash-table #math
+tags: #leetcode #easy #english #cpp #array #hash-table #math
 
 <hr />
 
@@ -27,3 +27,6 @@ public:
     }
 };
 ```
+
+[[Competitive Programming/Leetcode/Korean/1512 - Number of Good Pairs | JavaScript solution]]
+[[Competitive Programming/Leetcode/Japanese/1512 - Number of Good Pairs | Ruby solution]]
