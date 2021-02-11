@@ -1,4 +1,4 @@
-tags: #leetcode #linkedlist #englsh #cpp #easy
+tags: #leetcode #linkedlist #english #cpp #easy
 
 <hr />
 

@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "699c0726434154de",
+        "id": "e7dda35a037fb17d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ruby/Basic Ruby/210211 Writing methods.md",
-            "mode": "preview"
+            "file": "React/Basics/210131 create-react-app & JSX.md",
+            "mode": "source"
           }
         }
       }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5121879577637,
-    "collapsed": true
+    "width": 385.5121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Basic Ruby/210211 Writing methods.md",
+                "file": "React/Basics/210131 create-react-app & JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +109,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.45318603515625,
-    "collapsed": true
+    "width": 415.4532470703125
   },
   "lastOpenFiles": [
+    "React/Basics/210131 create-react-app & JSX.md",
+    "React/Basics/210201 Rendering Elements.md",
+    "React/Basics/210211 Components and Props.md",
+    "Competitive Programming/Leetcode/English/237 - Delete Node in a Linked List.md",
+    "React/Basics/210201 Components and Props.md",
     "Ruby/Basic Ruby/210211 Writing methods.md",
     "Ruby/Basic Ruby/210206 Data types pt.3.md",
     "Ruby/Basic Ruby/Untitled.md",
     "ReadingNote/Books.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
-    "ReadingNote/짧고 굵게 일합니다.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210211 병자호란.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210131 임진왜란.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210125 위화도회군.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/Untitled.md"
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md"
   ]
 }
