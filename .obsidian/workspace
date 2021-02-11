@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/210210 Array methods pt.2.md",
+            "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210211 병자호란.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210210 Array methods pt.2.md",
+                "file": "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210211 병자호란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,18 +110,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.45318603515625
+    "width": 351.45318603515625,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "JavaScript/210210 Array methods pt.2.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210211 병자호란.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210131 임진왜란.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/210125 위화도회군.md",
+    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/사건/Untitled.md",
     "JavaScript/210208 Array methods pt.1.md",
+    "JavaScript/210210 Array methods pt.2.md",
     "Untitled.md",
     "계정/eu.j.jii@gmail.com.md",
     "계정/jiiyoo1994@gmail.com.md",
-    "계정/Untitled.md",
-    "Competitive Programming/Leetcode/Japanese/141 - Linked List Cycle.md",
-    "Competitive Programming/Leetcode/Korean/1672 - Richest Customer Wealth.md",
-    "Competitive Programming/Leetcode/Japanese/1672 - Richest Customer Wealth.md",
-    "Competitive Programming/Leetcode/English/1672 - Richest Customer Wealth.md"
+    "계정/Untitled.md"
   ]
 }
