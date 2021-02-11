@@ -1,5 +1,5 @@
 tags: #JavaScript #data-type #modern-js
-related: [[210207 Arrays]]
+related: [[210207 Arrays]] | [[210210 Array methods pt.2]]
 
 <hr />
 

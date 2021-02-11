@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "642882acb760a3c0",
+        "id": "699c0726434154de",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Competitive Programming/Leetcode/Japanese/141 - Linked List Cycle.md",
+            "file": "JavaScript/210210 Array methods pt.2.md",
             "mode": "preview"
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5121879577637
+    "width": 385.5121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Competitive Programming/Leetcode/Japanese/141 - Linked List Cycle.md",
+                "file": "JavaScript/210210 Array methods pt.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +110,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.2669372558594,
-    "collapsed": true
+    "width": 351.45318603515625
   },
   "lastOpenFiles": [
+    "JavaScript/210210 Array methods pt.2.md",
+    "JavaScript/210208 Array methods pt.1.md",
+    "Untitled.md",
+    "계정/eu.j.jii@gmail.com.md",
+    "계정/jiiyoo1994@gmail.com.md",
+    "계정/Untitled.md",
     "Competitive Programming/Leetcode/Japanese/141 - Linked List Cycle.md",
     "Competitive Programming/Leetcode/Korean/1672 - Richest Customer Wealth.md",
     "Competitive Programming/Leetcode/Japanese/1672 - Richest Customer Wealth.md",
-    "Competitive Programming/Leetcode/English/1672 - Richest Customer Wealth.md",
-    "Competitive Programming/Leetcode/Japanese/1662 - Check If Two String Arrays are Equivalent.md",
-    "Competitive Programming/Leetcode/Japanese/1614 - Maximum Nesting Depth of the Parentheses.md",
-    "Competitive Programming/Leetcode/Japanese/1603 - Design Parking System.md",
-    "Competitive Programming/Leetcode/Japanese/1528 - Shuffle String.md",
-    "Competitive Programming/Leetcode/Japanese/1512 - Number of Good Pairs.md",
-    "Competitive Programming/Leetcode/Japanese/1486 - XOR Operation in an Array.md"
+    "Competitive Programming/Leetcode/English/1672 - Richest Customer Wealth.md"
   ]
 }
