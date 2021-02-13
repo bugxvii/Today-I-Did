@@ -1,11 +1,4 @@
----
-category: git
-url_path: '/remote'
-title: 'Adding a new remote'
-type: 'git'
-
-layout: null
----
+tags:  #git #remote #english
 
 ## Remote add 
 ```sh

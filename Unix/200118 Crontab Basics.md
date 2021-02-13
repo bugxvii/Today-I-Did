@@ -1,4 +1,4 @@
-tags: #unix #crontab 
+tags: #unix #crontab #english
 
 ## Scheduling Cron Jobs with Crontab
 
@@ -11,7 +11,7 @@ tags: #unix #crontab
 
 ## How it works
 
-```
+```text
 *  *  *  *  *
 │  │  │  │  └── day   (week; 0-7)
 │  │  │  └───── month (1-12)
@@ -29,12 +29,12 @@ For the `day (week; 0-7)`, both `0` and `7` are Sunday but `7` is not a standard
 
 ## Example
 
-```sh
+```shell
 # At every minute, save the result of `ls -al /home` to `cron-log.txt`
 * * * * * ls -al /home >> ~/Documents/cron-log.txt
 ```
 
-```sh
+```shell
 # At 23:50, run `backup.sh` script
 50 23 * * * ~/script/backup.sh
 ```

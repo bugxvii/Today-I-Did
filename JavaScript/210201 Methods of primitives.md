@@ -1,4 +1,4 @@
-tags: #JavaScript #data-type 
+tags: #JavaScript #data-type #english
 
 ## Methods of primitives
 In JavaScript we can work with primitives as if they're objects.

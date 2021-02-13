@@ -1,4 +1,4 @@
-tags: #JavaScript #object
+tags: #JavaScript #object #english
 
 ## Object methods, "this"
 Let's recall what object is from previous units.

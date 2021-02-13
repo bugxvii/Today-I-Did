@@ -1,4 +1,4 @@
-tags: #etc #google #domain
+tags: #etc #google #domain #english
 
 Currently this website is accessible via `jioneeu.github.io`
 

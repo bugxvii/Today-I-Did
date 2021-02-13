@@ -1,4 +1,4 @@
-tags: #JavaScript #sort 
+tags: #JavaScript #sort #english
 
 ## sort()
 simply calling a `sort()` wont do it for you since JS sorts data **alphabetically by default** even it's a number.

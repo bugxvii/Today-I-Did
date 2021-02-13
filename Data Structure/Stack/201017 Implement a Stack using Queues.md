@@ -1,4 +1,4 @@
-tags: #queue #stack #data-structure
+tags: #queue #stack #data-structure #english
 
 ## Queue-stack
 This is exactly the opposite of [[201016 Implement a Queue using Stacks | this]] case, where we used two stacks to implement a queue.

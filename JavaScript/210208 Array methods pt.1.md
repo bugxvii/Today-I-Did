@@ -1,4 +1,4 @@
-tags: #JavaScript #data-type #modern-js
+tags: #JavaScript #data-type #modern-js #english
 related: [[210207 Arrays]] | [[210210 Array methods pt.2]]
 
 <hr />

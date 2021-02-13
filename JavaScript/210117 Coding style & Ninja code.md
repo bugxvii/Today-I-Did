@@ -1,4 +1,4 @@
-tags: #JavaScript #modern-js 
+tags: #JavaScript #modern-js #korean
 
 <hr />
 

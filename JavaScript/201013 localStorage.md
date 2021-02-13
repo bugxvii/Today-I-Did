@@ -1,4 +1,4 @@
-tags: #JavaScript #localstorage
+tags: #JavaScript #localstorage #english
 
 ## Local Storage
 [Library](https://github.com/jioneeu/library) 프로젝트를 하면서 DB를 뭘 쓸까하다가, 

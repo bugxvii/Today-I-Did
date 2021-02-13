@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Basics/210213 State and Lifecycle.md",
+            "file": "Ruby/Basic Ruby/210204 Data types pt.1.md",
             "mode": "preview"
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5121879577637,
-    "collapsed": true
+    "width": 385.5121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Basics/210213 State and Lifecycle.md",
+                "file": "Ruby/Basic Ruby/210204 Data types pt.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +109,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.4532470703125,
-    "collapsed": true
+    "width": 415.4532470703125
   },
   "lastOpenFiles": [
-    "React/Basics/210213 State and Lifecycle.md",
-    "React/Basics/210211 Components and Props.md",
-    "210213.md",
-    "JavaScript/210210 Array methods pt.2.md",
-    "JavaScript/201212 Copy to Clipboard.md",
-    "Data Structure/Array/201031 배열(array)이란.md",
-    "JavaScript/201012 Capture the right click.md",
-    "Competitive Programming/Leetcode/English/1295 - Find Numbers with Even Number of Digits.md",
-    "JavaScript/201117 Divide Integer by 10.md",
-    "Competitive Programming/Leetcode/Korean/1662 - Check If Two String Arrays are Equivalent.md"
+    "Ruby/Basic Ruby/210204 Data types pt.1.md",
+    "Software Development/Agile programming and TDD + BDD.md",
+    "Data Structure/Linked List/3. Circular Linked List/200718 循環リスト(Circular Linked List)とは.md",
+    "Competitive Programming/Leetcode/English/1290 - Convert Binary Number in a Linked List to Integer.md",
+    "Competitive Programming/Leetcode/English/1313 - Decompress Run-Length Encoded List.md",
+    "계정/eu.j.jii@gmail.com.md",
+    "Unix/200406 Delete all except.md",
+    "Unix/200430 'mv' command shortcuts.md",
+    "Unix/200118 Crontab Basics.md",
+    "Ruby/Basic Ruby/210211 Writing methods.md"
   ]
 }

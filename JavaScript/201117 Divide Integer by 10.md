@@ -1,4 +1,4 @@
-tags: #JavaScript #arithmetic
+tags: #JavaScript #arithmetic #english
 
 I was solving [this](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) question from the Leetcode.
 

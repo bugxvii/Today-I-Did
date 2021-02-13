@@ -1,4 +1,4 @@
-tags: #ps
+tags: #ps #english
 
 ## Time Complextiy
 - 시간복잡도(Time Complexity)는 프로그램 수행시간을 분석할 때 사용된다.

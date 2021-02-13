@@ -1,4 +1,4 @@
-tags: #database #mysql
+tags: #database #mysql #english
 related: [[201122 MySQL Basic pt.1 | MySQL Basic pt.1]] | [[201122 MySQL Basic pt.2 | MySQL Basic pt.2]] | [[201123 MySQL Basic pt.4 | MySQL Basic pt.4]]
 
 ## How to read all data

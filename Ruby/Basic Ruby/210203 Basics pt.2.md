@@ -1,4 +1,4 @@
-tags: #ruby 
+tags: #ruby #english
 related: [[210201 Basics pt.1]]
 
 ## Blocks

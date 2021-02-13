@@ -1,4 +1,4 @@
-tags: #JavaScript #modern-js 
+tags: #JavaScript #modern-js #korean
 related: [[210104 JavaScript fundamentals pt.1]] | [[210105 JavaScript fundamentals pt.2]] | [[210107 JavaScript fundamentals pt.3]] | [[210109 JavaScript fundamentals pt.4]] | [[210111 JavaScript fundamentals pt.5]]
 
 ---

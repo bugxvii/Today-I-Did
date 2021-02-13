@@ -1,4 +1,4 @@
-tags: #JavaScript #object 
+tags: #JavaScript #object #english
 
 ## Constructors
 In JavaScript, constructors are not a special type of a function. They are just regular functions. So there are two conventions to specify a constructor function:

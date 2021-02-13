@@ -1,4 +1,4 @@
-tags: #JavaScript #object
+tags: #JavaScript #object #korean
 
 ## 객체
 아래와 같이 `키(key) : 값(value)` 쌍의 프로퍼티(property)로 구성되어있다.

@@ -1,4 +1,4 @@
-tags: #JavaScript #EventListener
+tags: #JavaScript #EventListener #english
 
 ## Disabling
 ### Right mouse click

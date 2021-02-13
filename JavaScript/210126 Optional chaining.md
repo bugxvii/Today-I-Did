@@ -1,4 +1,4 @@
-tags: #JavaScript #object 
+tags: #JavaScript #object #english
 
 ## Optional chaining '?.'
 > Recently added feature. Older browsers may need *polyfills*.

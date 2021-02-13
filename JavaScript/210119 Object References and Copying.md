@@ -1,4 +1,4 @@
-tags: #JavaScript #object
+tags: #JavaScript #object #korean
 
 ## 참조에 의한 객체 복사
 - 원시 자료형(primitive data types)의 값들은 '값 그대로' 저장/할당되고 복사된다. 

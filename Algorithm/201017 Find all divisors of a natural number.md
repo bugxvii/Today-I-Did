@@ -1,4 +1,4 @@
-tags: #algorithm #divisor #math
+tags: #algorithm #divisor #math #english 
 
 ## Linear (naive) approach
 

@@ -1,4 +1,4 @@
-tags: #database #firebase 
+tags: #database #firebase #english
 
 ## Setup
 Read the official [Firebase documentation](https://firebase.google.com/docs/web/setup) for the installation and initial setup. 

@@ -1,4 +1,4 @@
-tags: #JavaScript #object 
+tags: #JavaScript #object #english
 
 ## Symbol type
 Object property keys may be either of string type, or of symbol type.o

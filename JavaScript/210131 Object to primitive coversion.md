@@ -1,4 +1,4 @@
-tags: #JavaScript #object 
+tags: #JavaScript #object #english
 
 ## Object to Primitive Conversion
 When we perform arithmetic operations with objects, it will be converted into primitives. For example, results of the following code will be a primitive: `obj + obj`, `obj - obj`, or `alert(obj)`.

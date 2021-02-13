@@ -1,4 +1,4 @@
-tags: #Agile #TDD #BDD #TIL
+tags: #Agile #TDD #BDD #TIL #korean 
 created: 2021-01-17
 
 [모던 자바스크립트 코드 품질](https://ko.javascript.info/testing-mocha)의 대해서 공부하던 중 테스트 자동화에 대한 얘기가 나왔다. **Behavior Driven Development (BDD)** 라는 방법을  얘기하는데 자세히 몰라서 찾아봤다. BDD를 이해하기 위해서는 **애자일 방법론**과 **Test Driven Development (TDD)**를 이해해야 했다.

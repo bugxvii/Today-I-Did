@@ -1,4 +1,4 @@
-tags: #JavaScript #insert
+tags: #JavaScript #insert #english
 
 I was expecting something like `insert` or `insertAt`, but it was `splice`.
 

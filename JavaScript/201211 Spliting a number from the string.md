@@ -1,4 +1,4 @@
-tags: #JavaScript #string #split
+tags: #JavaScript #string #split #english
 
 I needed to split a number and the string to check if a given value is a proper unit in CSS.
 For example, `10em`, `10px`, `10foo`, and so on...

@@ -1,4 +1,4 @@
-tags: #nodejs 
+tags: #nodejs #english
 
 Let's say you're trying to read two values from a terminal and console.log it in `foo.js` like the below.
 ```js

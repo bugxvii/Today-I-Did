@@ -1,4 +1,4 @@
-tags: #JavaScript #EventListener 
+tags: #JavaScript #EventListener #english
 
 Right-click can be captured with the `contextmenu` event. 
 

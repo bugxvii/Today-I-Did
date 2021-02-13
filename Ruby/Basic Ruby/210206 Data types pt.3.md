@@ -1,4 +1,4 @@
-tags: #ruby #data-type 
+tags: #ruby #data-type #english
 related: [[210204 Data types pt.1]] | [[210205 Data types pt.2]] 
 
 <hr />

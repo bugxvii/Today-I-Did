@@ -1,4 +1,4 @@
-tags: #database #firebase
+tags: #database #firebase #english
 
 I had below code to load books from the DB and use this data to display it on the web.
 

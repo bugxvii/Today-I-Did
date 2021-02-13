@@ -1,4 +1,4 @@
-tags: #math #chebyshev
+tags: #math #chebyshev #english
 related:  [[201018 Euclidean Distance | Euclidean Distance]] | [[201018 Manhattan Distance | Manhattan Distance]]
 
 <hr />

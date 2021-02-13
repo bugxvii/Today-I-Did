@@ -1,4 +1,4 @@
-tags: #JavaScript #CSS
+tags: #JavaScript #CSS #english
 
 ## Creating a Card with CSS
 

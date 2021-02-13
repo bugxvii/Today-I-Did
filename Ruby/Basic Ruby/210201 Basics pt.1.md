@@ -1,4 +1,4 @@
-tags: #ruby 
+tags: #ruby #english
 related: [[210203 Basics pt.2]]
 
 <hr />

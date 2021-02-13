@@ -1,4 +1,4 @@
-tags: #git
+tags: #git #english
 
 This command will revert you commit back to one BUT also deletes all newly made content.
 ```bash

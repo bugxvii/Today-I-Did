@@ -227,3 +227,6 @@ function FormattedDate(props) {
 
 This is called **top-down** or **unidirectional** data flow. 
 Any data or UI derived from that state can only affect components *below* them in the tree.
+
+## Reference
+- https://reactjs.org/docs/state-and-lifecycle.html

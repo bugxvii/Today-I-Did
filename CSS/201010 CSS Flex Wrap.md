@@ -1,4 +1,4 @@
-tags: #JavaScript #CSS #flex
+tags: #JavaScript #CSS #flex #english
 
 윈도우 크기에 따라 저절로 다음 줄로 이동하게 끔 wrap할 수 있는 방법이 있을까 찾아 보았다.
 

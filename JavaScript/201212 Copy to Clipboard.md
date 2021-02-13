@@ -1,4 +1,4 @@
-tags: #JavaScript #copy #clipboard
+tags: #JavaScript #copy #clipboard #english
 
 I used below codes to copy CSS codes into the clipboard for [this](https://github.com/bugxvii/border-radius-previewer) project.
 
