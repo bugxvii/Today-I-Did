@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "371d51fb37f95045",
+        "id": "c18b857e61081f5e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "React/Basics/210216 Handling Events.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,8 +50,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5121879577637,
-    "collapsed": true
+    "width": 385.5121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -71,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Basics/210216 Handling Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
