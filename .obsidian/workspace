@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "44c5dc33328778bf",
+        "id": "782dffd2843d69b0",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ruby/Basic Ruby/210205 Data types pt.2.md",
+            "file": "JavaScript/210216 Iterables.md",
             "mode": "preview"
           }
         }
@@ -49,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 385.5121879577637,
-    "collapsed": true
+    "width": 385.5121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -72,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Basic Ruby/210205 Data types pt.2.md",
+                "file": "JavaScript/210216 Iterables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,18 +109,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.4532470703125
+    "width": 315,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Ruby/Basic Ruby/210205 Data types pt.2.md",
-    "Data Structure/Linked List/3. Circular Linked List/200718 원형 연결 리스트(Circular Linked List)란.md",
-    "JavaScript/210125 Method and 'this'.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/유적-유물/210127 청화백자.md",
-    "Ruby/Basic Ruby/210204 Data types pt.1.md",
-    "Software Development/Agile programming and TDD + BDD.md",
-    "Data Structure/Linked List/3. Circular Linked List/200718 循環リスト(Circular Linked List)とは.md",
-    "Competitive Programming/Leetcode/English/1290 - Convert Binary Number in a Linked List to Integer.md",
-    "Competitive Programming/Leetcode/English/1313 - Decompress Run-Length Encoded List.md",
+    "JavaScript/210216 Iterables.md",
+    "JavaScript/210210 Array methods pt.2.md",
+    "210216.md",
+    "계정/im.eubug@gmail.com.md",
+    "계정/ryuj0415@gmail.com.md",
+    "계정/leedohyeong1@naver.com.md",
+    "계정/jione.eu@gmail.com.md",
+    "계정/jione.eu@aikomi.co.jp.md",
+    "계정/jiiyoo1994@gmail.com.md",
     "계정/eu.j.jii@gmail.com.md"
   ]
 }

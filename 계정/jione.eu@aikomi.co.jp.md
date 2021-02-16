@@ -1,3 +1,0 @@
-#slack
-
-- slack => Aikomi Internal
