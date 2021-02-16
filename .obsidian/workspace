@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/210216 Iterables.md",
-            "mode": "preview"
+            "file": "JavaScript/210216 Map and Set.md",
+            "mode": "source"
           }
         }
       }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5121879577637
+    "width": 385.5121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210216 Iterables.md",
+                "file": "JavaScript/210216 Map and Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +114,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "JavaScript/210216 Map and Set.md",
     "JavaScript/210216 Iterables.md",
+    "JavaScript/210216.md",
+    "210218.md",
+    "210217.md",
     "JavaScript/210210 Array methods pt.2.md",
     "210216.md",
     "계정/im.eubug@gmail.com.md",
     "계정/ryuj0415@gmail.com.md",
-    "계정/leedohyeong1@naver.com.md",
-    "계정/jione.eu@gmail.com.md",
-    "계정/jione.eu@aikomi.co.jp.md",
-    "계정/jiiyoo1994@gmail.com.md",
-    "계정/eu.j.jii@gmail.com.md"
+    "계정/leedohyeong1@naver.com.md"
   ]
 }
