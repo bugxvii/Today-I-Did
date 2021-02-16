@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "782dffd2843d69b0",
+        "id": "371d51fb37f95045",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/210216 Map and Set.md",
+            "file": "React/Basics/210216 Handling Events.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210216 Map and Set.md",
+                "file": "React/Basics/210216 Handling Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "React/Basics/210216 Handling Events.md",
+    "React/Basics/210213 State and Lifecycle.md",
+    "React/Basics/Untitled.md",
     "JavaScript/210216 Map and Set.md",
     "JavaScript/210216 Iterables.md",
     "JavaScript/210216.md",
     "210218.md",
     "210217.md",
     "JavaScript/210210 Array methods pt.2.md",
-    "210216.md",
-    "계정/im.eubug@gmail.com.md",
-    "계정/ryuj0415@gmail.com.md",
-    "계정/leedohyeong1@naver.com.md"
+    "210216.md"
   ]
 }
