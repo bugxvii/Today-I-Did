@@ -1,4 +1,5 @@
 tags: #JavaScript #data-type #modern-js #english
+related: [[210217 Map and Set pt.2]]
 
 ---
 
@@ -90,6 +91,17 @@ for (let key of map.keys()) {
 for (let key of map.keys()) {
 	console.log( key ); // ["name", "Eubug"], ... and so on
 }
+```
+
+> **The insertion order is used**
+> The iteration goes in the same order as the values were inserted. `Map` preserves this order, unlike a regular `Object`.
+
+`Map` has a built-in iteration method called `forEach`:
+```js
+// runs the function for each (key, value) pair
+recipeMap.forEach( (value, key, map) => {
+	console.log( `${key}: ${value}`); // cucumber: 500 etc
+});
 ```
 
 ## Reference 
