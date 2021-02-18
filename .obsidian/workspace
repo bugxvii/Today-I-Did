@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c18b857e61081f5e",
+        "id": "b8080671d898b8c6",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/210217 Map and Set pt.2.md",
-            "mode": "source"
+            "file": "JavaScript/210218 WeakMap and WeakSet.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210217 Map and Set pt.2.md",
+                "file": "JavaScript/210218 WeakMap and WeakSet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "JavaScript/210218 WeakMap and WeakSet.md",
+    "JavaScript/210120 Garbage Collection.md",
     "JavaScript/210217 Map and Set pt.2.md",
-    "JavaScript/210216 Map and Set pt.1.md",
     "Untitled.md",
+    "JavaScript/210216 Map and Set pt.1.md",
     "JavaScript/210216 Map and Set.md",
     "acc/ryuj0415@gmail.com.md",
     "acc/leedohyeong1@naver.com.md",
     "acc/jiwonyoo1102@gmail.com.md",
-    "acc/jione.eu@aikomi.co.jp.md",
-    "acc/jione.eu@gmail.com.md",
-    "acc/eu.j.jii@gmail.com.md"
+    "acc/jione.eu@aikomi.co.jp.md"
   ]
 }
