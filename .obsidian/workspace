@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/210221 Regular Expression.md",
-            "mode": "preview"
+            "file": "JavaScript/210224 Destructuring assignment.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210221 Regular Expression.md",
+                "file": "JavaScript/210224 Destructuring assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "JavaScript/2021-02-24 Destructuring assignment.md",
     "JavaScript/210221 Regular Expression.md",
     "JavaScript/210218 WeakMap and WeakSet.md",
     "Untitled.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210201 이성계.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/목차.md",
-    "ReadingNote/Books.md",
-    "ReadingNote/짧고 굵게 일합니다.md",
-    "ReadingNote/읽기만 하면  내 것이 되는 1페이지 한국사365/인물/210125 정도전.md",
-    "JavaScript/210120 Garbage Collection.md",
-    "JavaScript/210217 Map and Set pt.2.md"
+    "acc/ryuj0415@gmail.com.md",
+    "acc/jiwonyoo1102@gmail.com.md",
+    "acc/jione.eu@gmail.com.md",
+    "acc/eu.j.jii@gmail.com.md",
+    "acc/im.eubug@gmail.com.md",
+    "acc/jione.eu@aikomi.co.jp.md"
   ]
 }
