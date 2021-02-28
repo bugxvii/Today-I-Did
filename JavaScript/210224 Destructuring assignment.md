@@ -212,3 +212,8 @@ console.log( item2 ); // Donut
 
 ## Reference
 - [https://javascript.info/destructuring-assignment](https://javascript.info/destructuring-assignment)
+
+minsunny5@gmail.com
+안녕하세요. 반갑습니다. 유버그입니다. 기초 알고리즘 & 자료구조 스터디 용 디스코드 채널을 만들었습니다. [https://discord.gg/PmT8TzTG](https://t.co/uMruLOJoVz?amp=1) 입장 후, 아이디는 트위터 아이디랑 동일시해주세요. 깃허브 리포는 후에 만들고 다시 연락드리겠습니다.
+
+스터디는 처음이라 미숙할테지만, 잘 부탁드립니다.

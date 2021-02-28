@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "70fddda6df86a18b",
+        "id": "2e956c2362413b7a",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/210224 Destructuring assignment.md",
+            "file": "acc/ryuj0415@gmail.com.md",
             "mode": "source"
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5121879577637,
-    "collapsed": true
+    "width": 385.5121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/210224 Destructuring assignment.md",
+                "file": "acc/ryuj0415@gmail.com.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +113,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "JavaScript/2021-02-24 Destructuring assignment.md",
-    "JavaScript/210221 Regular Expression.md",
-    "JavaScript/210218 WeakMap and WeakSet.md",
-    "Untitled.md",
     "acc/ryuj0415@gmail.com.md",
-    "acc/jiwonyoo1102@gmail.com.md",
-    "acc/jione.eu@gmail.com.md",
-    "acc/eu.j.jii@gmail.com.md",
-    "acc/im.eubug@gmail.com.md",
-    "acc/jione.eu@aikomi.co.jp.md"
+    "Untitled.md",
+    "알고리즘과 자료구조 스터디/week1/배열과 연결리스트.md",
+    "알고리즘과 자료구조 스터디/커리큘럼.md",
+    "todo/120227.md",
+    "알고리즘과 자료구조 스터디/Untitled.md",
+    "알고리즘과 자료구조 스터디/운영방침.md",
+    "Algorithm/210227 공부순서.md",
+    "Blog/Gatsby로 블로그 만드는 과정 1.md",
+    "120227.md"
   ]
 }
