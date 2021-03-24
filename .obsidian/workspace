@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/0. Fundamentals/210324.md",
+            "file": "Aikomi Meeting/KT Meeting/210322 Monday.md",
             "mode": "source"
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5121879577637,
-    "collapsed": true
+    "width": 385.5121879577637
   },
   "right": {
     "id": "4a7767d3fd567546",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/0. Fundamentals/210324.md",
+                "file": "Aikomi Meeting/KT Meeting/210322 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +98,8 @@
             "id": "6e0996a58d59163e",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -114,15 +110,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Aikomi Meeting/KT Meeting/210322 Monday.md",
+    "Database/Google Firebase/201027 Firebase setTimeout.md",
+    "Database/MySQL/201122 MySQL Basic pt.1.md",
+    "Blog/Gatsby로 블로그 만드는 과정 1.md",
+    "Software Development/Agile programming and TDD + BDD.md",
+    "알고리즘과 자료구조 스터디/커리큘럼.md",
+    "알고리즘과 자료구조 스터디/week1/배열과 연결리스트.md",
     "PHP/0. Fundamentals/210324.md",
     "Untitled.md",
-    "acc/ryuj0415@gmail.com.md",
-    "알고리즘과 자료구조 스터디/week1/배열과 연결리스트.md",
-    "알고리즘과 자료구조 스터디/커리큘럼.md",
-    "todo/120227.md",
-    "알고리즘과 자료구조 스터디/Untitled.md",
-    "알고리즘과 자료구조 스터디/운영방침.md",
-    "Algorithm/210227 공부순서.md",
-    "Blog/Gatsby로 블로그 만드는 과정 1.md"
+    "acc/ryuj0415@gmail.com.md"
   ]
 }
