@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "e8687aab613a9d43",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e956c2362413b7a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "acc/ryuj0415@gmail.com.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09ced4c95b32d527",
+    "type": "split",
+    "children": [
+      {
+        "id": "9502c09f293359f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80fce8ea7a9f162d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "65ffcd01fd7624de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#easy",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.5121879577637
+  },
+  "right": {
+    "id": "4a7767d3fd567546",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7dbddaf5919b6a3",
+        "type": "tabs",
+        "dimension": 37.48701973001039,
+        "children": [
+          {
+            "id": "1520334f11a1da5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "acc/ryuj0415@gmail.com.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9276eb946d5dc8e7",
+        "type": "tabs",
+        "dimension": 62.51298026998961,
+        "children": [
+          {
+            "id": "d6efd556d017638d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e0996a58d59163e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "acc/ryuj0415@gmail.com.md",
+    "Untitled.md",
+    "알고리즘과 자료구조 스터디/week1/배열과 연결리스트.md",
+    "알고리즘과 자료구조 스터디/커리큘럼.md",
+    "todo/120227.md",
+    "알고리즘과 자료구조 스터디/Untitled.md",
+    "알고리즘과 자료구조 스터디/운영방침.md",
+    "Algorithm/210227 공부순서.md",
+    "Blog/Gatsby로 블로그 만드는 과정 1.md",
+    "120227.md"
+  ]
+}
